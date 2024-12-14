@@ -1,0 +1,100 @@
+Melhores resultados para o dataset: albrecht
+  Melhor para a métrica MAE: t = 600, l = 0
+    Média: 13.0497
+    Mínimo: 2.6606
+    Máximo: 37.0692
+    Desvio Padrão: 6.7161
+
+  Melhor para a métrica Median Absolute Error: t = 700, l = 0
+    Média: 8.1565
+    Mínimo: 0.4204
+    Máximo: 39.1489
+    Desvio Padrão: 5.7635
+
+  Melhor para a métrica RMSE: t = 600, l = 0
+    Média: 17.8259
+    Mínimo: 3.7753
+    Máximo: 47.2448
+    Desvio Padrão: 10.9189
+
+  Melhor para a métrica R2 Score: t = 600, l = 0
+    Média: 0.5536
+    Mínimo: 0.0054
+    Máximo: 0.9628
+    Desvio Padrão: 0.2497
+
+Melhores resultados para o dataset: kemerer
+  Melhor para a métrica MAE: t = 100, l = 0
+    Média: 153.5252
+    Mínimo: 9.6087
+    Máximo: 452.2160
+    Desvio Padrão: 104.8585
+
+  Melhor para a métrica Median Absolute Error: t = 800, l = 0
+    Média: 124.8429
+    Mínimo: 3.0093
+    Máximo: 579.2490
+    Desvio Padrão: 117.9529
+
+  Melhor para a métrica RMSE: t = 100, l = 0
+    Média: 186.1977
+    Mínimo: 11.1434
+    Máximo: 489.0870
+    Desvio Padrão: 119.1649
+
+  Melhor para a métrica R2 Score: t = 800, l = 0
+    Média: 0.6720
+    Mínimo: 0.1371
+    Máximo: 0.9973
+    Desvio Padrão: 0.2306
+
+Melhores resultados para o dataset: cocomo81
+  Melhor para a métrica MAE: t = 100, l = 0
+    Média: 618.0332
+    Mínimo: 122.5950
+    Máximo: 3200.0100
+    Desvio Padrão: 541.6983
+
+  Melhor para a métrica Median Absolute Error: t = 300, l = 0
+    Média: 120.0911
+    Mínimo: 31.9821
+    Máximo: 575.4460
+    Desvio Padrão: 72.2859
+
+  Melhor para a métrica RMSE: t = 100, l = 0
+    Média: 1363.7952
+    Mínimo: 158.1920
+    Máximo: 6945.9500
+    Desvio Padrão: 1265.2966
+
+  Melhor para a métrica R2 Score: t = 1000, l = 0
+    Média: 0.4086
+    Mínimo: 0.0084
+    Máximo: 0.9392
+    Desvio Padrão: 0.2528
+
+Melhores resultados para o dataset: china
+  Melhor para a métrica MAE: t = 100, l = 0
+    Média: 377.1768
+    Mínimo: 230.1100
+    Máximo: 580.6120
+    Desvio Padrão: 81.0258
+
+  Melhor para a métrica Median Absolute Error: t = 500, l = 0
+    Média: 109.7959
+    Mínimo: 60.8978
+    Máximo: 182.1510
+    Desvio Padrão: 23.6341
+
+  Melhor para a métrica RMSE: t = 100, l = 0
+    Média: 1096.6032
+    Mínimo: 382.4630
+    Máximo: 2031.4000
+    Desvio Padrão: 505.1369
+
+  Melhor para a métrica R2 Score: t = 100, l = 0
+    Média: 0.9576
+    Mínimo: 0.7630
+    Máximo: 0.9969
+    Desvio Padrão: 0.0497
+

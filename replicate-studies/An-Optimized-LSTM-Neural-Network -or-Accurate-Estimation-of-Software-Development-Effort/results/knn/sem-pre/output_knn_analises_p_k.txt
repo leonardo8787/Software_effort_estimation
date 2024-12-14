@@ -1,0 +1,1485 @@
+Estatísticas para o dataset: albrecht
+  Para p = 1, k = 3:
+    Métrica: MAE
+      Média: 9.0540
+      Mínimo: 1.7733
+      Máximo: 32.2533
+      Desvio Padrão: 5.9556
+    Métrica: Median Absolute Error
+      Média: 5.6722
+      Mínimo: 1.4333
+      Máximo: 19.8333
+      Desvio Padrão: 3.3533
+    Métrica: RMSE
+      Média: 12.4404
+      Mínimo: 2.2194
+      Máximo: 42.5866
+      Desvio Padrão: 8.6232
+    Métrica: R2 Score
+      Média: 0.5773
+      Mínimo: 0.0834
+      Máximo: 0.8340
+      Desvio Padrão: 0.2257
+
+  Para p = 1, k = 4:
+    Métrica: MAE
+      Média: 9.8032
+      Mínimo: 2.6700
+      Máximo: 34.2050
+      Desvio Padrão: 6.9479
+    Métrica: Median Absolute Error
+      Média: 6.1067
+      Mínimo: 2.6250
+      Máximo: 19.3750
+      Desvio Padrão: 4.0126
+    Métrica: RMSE
+      Média: 14.0124
+      Mínimo: 2.8038
+      Máximo: 46.0103
+      Desvio Padrão: 10.6570
+    Métrica: R2 Score
+      Média: 0.4876
+      Mínimo: 0.0361
+      Máximo: 0.9609
+      Desvio Padrão: 0.2524
+
+  Para p = 1, k = 5:
+    Métrica: MAE
+      Média: 10.2937
+      Mínimo: 2.7680
+      Máximo: 35.1240
+      Desvio Padrão: 7.5499
+    Métrica: Median Absolute Error
+      Média: 5.9620
+      Mínimo: 2.8800
+      Máximo: 19.4800
+      Desvio Padrão: 4.2908
+    Métrica: RMSE
+      Média: 15.0289
+      Mínimo: 2.8608
+      Máximo: 47.4353
+      Desvio Padrão: 11.9344
+    Métrica: R2 Score
+      Média: 0.4173
+      Mínimo: 0.0435
+      Máximo: 0.9522
+      Desvio Padrão: 0.2318
+
+  Para p = 1, k = 6:
+    Métrica: MAE
+      Média: 10.7002
+      Mínimo: 2.4567
+      Máximo: 35.9000
+      Desvio Padrão: 7.9084
+    Métrica: Median Absolute Error
+      Média: 5.6622
+      Mínimo: 2.2167
+      Máximo: 19.3667
+      Desvio Padrão: 4.0653
+    Métrica: RMSE
+      Média: 15.9626
+      Mínimo: 3.1387
+      Máximo: 49.1783
+      Desvio Padrão: 12.7777
+    Métrica: R2 Score
+      Média: 0.3951
+      Mínimo: 0.0178
+      Máximo: 0.8827
+      Desvio Padrão: 0.2365
+
+  Para p = 1, k = 7:
+    Métrica: MAE
+      Média: 10.6932
+      Mínimo: 2.3771
+      Máximo: 37.0000
+      Desvio Padrão: 8.4135
+    Métrica: Median Absolute Error
+      Média: 5.4833
+      Mínimo: 1.5714
+      Máximo: 20.0143
+      Desvio Padrão: 4.1670
+    Métrica: RMSE
+      Média: 16.3249
+      Mínimo: 2.9503
+      Máximo: 50.6285
+      Desvio Padrão: 13.6476
+    Métrica: R2 Score
+      Média: 0.3855
+      Mínimo: 0.0135
+      Máximo: 0.8470
+      Desvio Padrão: 0.2363
+
+  Para p = 1, k = 8:
+    Métrica: MAE
+      Média: 10.9747
+      Mínimo: 2.0850
+      Máximo: 37.4800
+      Desvio Padrão: 8.5539
+    Métrica: Median Absolute Error
+      Média: 5.7412
+      Mínimo: 1.0500
+      Máximo: 20.3500
+      Desvio Padrão: 4.3202
+    Métrica: RMSE
+      Média: 16.9545
+      Mínimo: 2.6070
+      Máximo: 51.3653
+      Desvio Padrão: 14.0805
+    Métrica: R2 Score
+      Média: 0.3604
+      Mínimo: 0.0205
+      Máximo: 0.8320
+      Desvio Padrão: 0.2309
+
+  Para p = 1, k = 9:
+    Métrica: MAE
+      Média: 11.4134
+      Mínimo: 1.9022
+      Máximo: 38.5067
+      Desvio Padrão: 8.8402
+    Métrica: Median Absolute Error
+      Média: 6.0552
+      Mínimo: 1.7111
+      Máximo: 20.9667
+      Desvio Padrão: 4.3855
+    Métrica: RMSE
+      Média: 17.5199
+      Mínimo: 2.4643
+      Máximo: 52.5779
+      Desvio Padrão: 14.5011
+    Métrica: R2 Score
+      Média: 0.3845
+      Mínimo: 0.0728
+      Máximo: 0.7447
+      Desvio Padrão: 0.2172
+
+  Para p = 2, k = 3:
+    Métrica: MAE
+      Média: 9.2678
+      Mínimo: 3.0400
+      Máximo: 31.7867
+      Desvio Padrão: 5.6976
+    Métrica: Median Absolute Error
+      Média: 5.9211
+      Mínimo: 2.5667
+      Máximo: 19.8333
+      Desvio Padrão: 3.1010
+    Métrica: RMSE
+      Média: 12.6880
+      Mínimo: 3.1647
+      Máximo: 41.8468
+      Desvio Padrão: 8.2788
+    Métrica: R2 Score
+      Média: 0.5636
+      Mínimo: 0.0738
+      Máximo: 0.8150
+      Desvio Padrão: 0.2414
+
+  Para p = 2, k = 4:
+    Métrica: MAE
+      Média: 9.8345
+      Mínimo: 2.6700
+      Máximo: 34.2600
+      Desvio Padrão: 6.8981
+    Métrica: Median Absolute Error
+      Média: 6.1525
+      Mínimo: 2.6250
+      Máximo: 19.3750
+      Desvio Padrão: 3.9808
+    Métrica: RMSE
+      Média: 13.9776
+      Mínimo: 2.8038
+      Máximo: 46.0195
+      Desvio Padrão: 10.6003
+    Métrica: R2 Score
+      Média: 0.4897
+      Mínimo: 0.0361
+      Máximo: 0.9545
+      Desvio Padrão: 0.2517
+
+  Para p = 2, k = 5:
+    Métrica: MAE
+      Média: 10.2719
+      Mínimo: 2.3800
+      Máximo: 35.1240
+      Desvio Padrão: 7.5336
+    Métrica: Median Absolute Error
+      Média: 5.9360
+      Mínimo: 1.9000
+      Máximo: 19.4800
+      Desvio Padrão: 4.3275
+    Métrica: RMSE
+      Média: 15.0518
+      Mínimo: 2.8608
+      Máximo: 47.4353
+      Desvio Padrão: 11.9204
+    Métrica: R2 Score
+      Média: 0.4407
+      Mínimo: 0.0784
+      Máximo: 0.9522
+      Desvio Padrão: 0.2239
+
+  Para p = 2, k = 6:
+    Métrica: MAE
+      Média: 10.4276
+      Mínimo: 2.1700
+      Máximo: 35.9000
+      Desvio Padrão: 8.0127
+    Métrica: Median Absolute Error
+      Média: 5.2528
+      Mínimo: 2.0333
+      Máximo: 19.3667
+      Desvio Padrão: 4.2155
+    Métrica: RMSE
+      Média: 15.8112
+      Mínimo: 2.6117
+      Máximo: 49.1783
+      Desvio Padrão: 12.9076
+    Métrica: R2 Score
+      Média: 0.3796
+      Mínimo: 0.0171
+      Máximo: 0.8894
+      Desvio Padrão: 0.2394
+
+  Para p = 2, k = 7:
+    Métrica: MAE
+      Média: 10.6541
+      Mínimo: 1.8200
+      Máximo: 37.1971
+      Desvio Padrão: 8.3797
+    Métrica: Median Absolute Error
+      Média: 5.3686
+      Mínimo: 1.5714
+      Máximo: 20.0143
+      Desvio Padrão: 4.2018
+    Métrica: RMSE
+      Média: 16.3321
+      Mínimo: 2.0321
+      Máximo: 50.6356
+      Desvio Padrão: 13.6488
+    Métrica: R2 Score
+      Média: 0.3897
+      Mínimo: 0.0135
+      Máximo: 0.8267
+      Desvio Padrão: 0.2504
+
+  Para p = 2, k = 8:
+    Métrica: MAE
+      Média: 10.9876
+      Mínimo: 2.0850
+      Máximo: 37.4800
+      Desvio Padrão: 8.5286
+    Métrica: Median Absolute Error
+      Média: 5.6558
+      Mínimo: 1.0500
+      Máximo: 20.3500
+      Desvio Padrão: 4.3807
+    Métrica: RMSE
+      Média: 16.9736
+      Mínimo: 2.6070
+      Máximo: 51.3653
+      Desvio Padrão: 14.0604
+    Métrica: R2 Score
+      Média: 0.3522
+      Mínimo: 0.0205
+      Máximo: 0.8130
+      Desvio Padrão: 0.2357
+
+  Para p = 2, k = 9:
+    Métrica: MAE
+      Média: 11.3472
+      Mínimo: 2.1244
+      Máximo: 38.1244
+      Desvio Padrão: 8.7639
+    Métrica: Median Absolute Error
+      Média: 5.8456
+      Mínimo: 1.7111
+      Máximo: 20.9667
+      Desvio Padrão: 4.4888
+    Métrica: RMSE
+      Média: 17.5616
+      Mínimo: 2.5159
+      Máximo: 52.3242
+      Desvio Padrão: 14.4796
+    Métrica: R2 Score
+      Média: 0.3614
+      Mínimo: 0.0100
+      Máximo: 0.7328
+      Desvio Padrão: 0.2240
+
+Estatísticas para o dataset: kemerer
+  Para p = 1, k = 3:
+    Métrica: MAE
+      Média: 136.4568
+      Mínimo: 14.1000
+      Máximo: 363.1590
+      Desvio Padrão: 122.5533
+    Métrica: Median Absolute Error
+      Média: 70.6311
+      Mínimo: 8.7667
+      Máximo: 191.3000
+      Desvio Padrão: 55.8615
+    Métrica: RMSE
+      Média: 191.1150
+      Mínimo: 15.6354
+      Máximo: 514.5010
+      Desvio Padrão: 190.1502
+    Métrica: R2 Score
+      Média: 0.4667
+      Mínimo: 0.0571
+      Máximo: 0.9521
+      Desvio Padrão: 0.2824
+
+  Para p = 1, k = 4:
+    Métrica: MAE
+      Média: 137.1656
+      Mínimo: 16.9333
+      Máximo: 368.3780
+      Desvio Padrão: 122.7315
+    Métrica: Median Absolute Error
+      Média: 72.6283
+      Mínimo: 12.1500
+      Máximo: 166.2250
+      Desvio Padrão: 46.4980
+    Métrica: RMSE
+      Média: 191.2599
+      Mínimo: 23.2130
+      Máximo: 526.2260
+      Desvio Padrão: 189.7227
+    Métrica: R2 Score
+      Média: 0.4396
+      Mínimo: 0.1534
+      Máximo: 0.9013
+      Desvio Padrão: 0.2415
+
+  Para p = 1, k = 5:
+    Métrica: MAE
+      Média: 139.3100
+      Mínimo: 28.2733
+      Máximo: 368.6370
+      Desvio Padrão: 124.5994
+    Métrica: Median Absolute Error
+      Média: 67.7041
+      Mínimo: 15.0600
+      Máximo: 135.8400
+      Desvio Padrão: 32.5995
+    Métrica: RMSE
+      Média: 191.2934
+      Mínimo: 28.7704
+      Máximo: 539.5780
+      Desvio Padrão: 196.6216
+    Métrica: R2 Score
+      Média: 0.4758
+      Mínimo: 0.1522
+      Máximo: 0.8377
+      Desvio Padrão: 0.1967
+
+  Para p = 1, k = 6:
+    Métrica: MAE
+      Média: 142.0581
+      Mínimo: 38.1167
+      Máximo: 379.9980
+      Desvio Padrão: 129.0346
+    Métrica: Median Absolute Error
+      Média: 70.4989
+      Mínimo: 20.2667
+      Máximo: 119.9000
+      Desvio Padrão: 24.4494
+    Métrica: RMSE
+      Média: 193.8657
+      Mínimo: 39.4047
+      Máximo: 549.5250
+      Desvio Padrão: 202.5755
+    Métrica: R2 Score
+      Média: 0.4028
+      Mínimo: 0.1802
+      Máximo: 0.7053
+      Desvio Padrão: 0.1752
+
+  Para p = 1, k = 7:
+    Métrica: MAE
+      Média: 146.6267
+      Mínimo: 36.8762
+      Máximo: 376.3700
+      Desvio Padrão: 126.0722
+    Métrica: Median Absolute Error
+      Média: 73.3655
+      Mínimo: 29.0714
+      Máximo: 125.9860
+      Desvio Padrão: 25.2376
+    Métrica: RMSE
+      Média: 200.0274
+      Mínimo: 38.4367
+      Máximo: 544.4120
+      Desvio Padrão: 201.1902
+    Métrica: R2 Score
+      Média: 0.4171
+      Mínimo: 0.2081
+      Máximo: 0.7953
+      Desvio Padrão: 0.1806
+
+  Para p = 1, k = 8:
+    Métrica: MAE
+      Média: 149.8396
+      Mínimo: 35.6375
+      Máximo: 373.8450
+      Desvio Padrão: 124.1741
+    Métrica: Median Absolute Error
+      Média: 74.6938
+      Mínimo: 29.3125
+      Máximo: 113.7750
+      Desvio Padrão: 22.3831
+    Métrica: RMSE
+      Média: 202.6471
+      Mínimo: 36.7951
+      Máximo: 544.9430
+      Desvio Padrão: 200.1900
+    Métrica: R2 Score
+      Média: 0.3712
+      Mínimo: 0.0244
+      Máximo: 0.8124
+      Desvio Padrão: 0.2175
+
+  Para p = 1, k = 9:
+    Métrica: MAE
+      Média: 156.1690
+      Mínimo: 32.8370
+      Máximo: 383.9260
+      Desvio Padrão: 125.4829
+    Métrica: Median Absolute Error
+      Média: 84.1134
+      Mínimo: 20.9111
+      Máximo: 123.8560
+      Desvio Padrão: 24.2102
+    Métrica: RMSE
+      Média: 208.7026
+      Mínimo: 43.0971
+      Máximo: 551.9070
+      Desvio Padrão: 199.8767
+    Métrica: R2 Score
+      Média: 0.2741
+      Mínimo: 0.0447
+      Máximo: 0.7426
+      Desvio Padrão: 0.2041
+
+  Para p = 2, k = 3:
+    Métrica: MAE
+      Média: 135.8713
+      Mínimo: 14.1000
+      Máximo: 363.1590
+      Desvio Padrão: 122.6008
+    Métrica: Median Absolute Error
+      Média: 69.5777
+      Mínimo: 8.7667
+      Máximo: 191.3000
+      Desvio Padrão: 54.6982
+    Métrica: RMSE
+      Média: 190.3782
+      Mínimo: 15.6354
+      Máximo: 514.5010
+      Desvio Padrão: 190.3721
+    Métrica: R2 Score
+      Média: 0.4633
+      Mínimo: 0.0571
+      Máximo: 0.9521
+      Desvio Padrão: 0.2876
+
+  Para p = 2, k = 4:
+    Métrica: MAE
+      Média: 138.1834
+      Mínimo: 16.9333
+      Máximo: 368.7370
+      Desvio Padrão: 123.5017
+    Métrica: Median Absolute Error
+      Média: 73.4217
+      Mínimo: 12.1500
+      Máximo: 166.2250
+      Desvio Padrão: 45.9052
+    Métrica: RMSE
+      Média: 191.5702
+      Mínimo: 23.2130
+      Máximo: 526.6480
+      Desvio Padrão: 189.6085
+    Métrica: R2 Score
+      Média: 0.4350
+      Mínimo: 0.1534
+      Máximo: 0.9013
+      Desvio Padrão: 0.2332
+
+  Para p = 2, k = 5:
+    Métrica: MAE
+      Média: 144.0045
+      Mínimo: 32.3000
+      Máximo: 380.5900
+      Desvio Padrão: 124.9261
+    Métrica: Median Absolute Error
+      Média: 74.2554
+      Mínimo: 15.0600
+      Máximo: 152.0400
+      Desvio Padrão: 37.0730
+    Métrica: RMSE
+      Média: 195.1717
+      Mínimo: 32.3640
+      Máximo: 542.5410
+      Desvio Padrão: 194.9325
+    Métrica: R2 Score
+      Média: 0.3701
+      Mínimo: 0.1522
+      Máximo: 0.7946
+      Desvio Padrão: 0.2257
+
+  Para p = 2, k = 6:
+    Métrica: MAE
+      Média: 148.9312
+      Mínimo: 41.4722
+      Máximo: 379.9980
+      Desvio Padrão: 126.3110
+    Métrica: Median Absolute Error
+      Média: 76.6529
+      Mínimo: 20.2667
+      Máximo: 156.3500
+      Desvio Padrão: 30.6159
+    Métrica: RMSE
+      Média: 201.9103
+      Mínimo: 41.8200
+      Máximo: 549.5250
+      Desvio Padrão: 198.8908
+    Métrica: R2 Score
+      Média: 0.3934
+      Mínimo: 0.1802
+      Máximo: 0.6571
+      Desvio Padrão: 0.1529
+
+  Para p = 2, k = 7:
+    Métrica: MAE
+      Média: 150.3613
+      Mínimo: 36.8762
+      Máximo: 376.3700
+      Desvio Padrão: 124.5175
+    Métrica: Median Absolute Error
+      Média: 77.6441
+      Mínimo: 29.0714
+      Máximo: 149.1000
+      Desvio Padrão: 27.0092
+    Métrica: RMSE
+      Média: 203.7760
+      Mínimo: 41.5798
+      Máximo: 544.4120
+      Desvio Padrão: 199.0803
+    Métrica: R2 Score
+      Média: 0.3920
+      Mínimo: 0.2081
+      Máximo: 0.6610
+      Desvio Padrão: 0.1354
+
+  Para p = 2, k = 8:
+    Métrica: MAE
+      Média: 150.8264
+      Mínimo: 35.6375
+      Máximo: 373.8450
+      Desvio Padrão: 124.7553
+    Métrica: Median Absolute Error
+      Média: 78.3817
+      Mínimo: 29.3125
+      Máximo: 152.8750
+      Desvio Padrão: 27.3529
+    Métrica: RMSE
+      Média: 203.3277
+      Mínimo: 36.7951
+      Máximo: 544.9430
+      Desvio Padrão: 200.1743
+    Métrica: R2 Score
+      Média: 0.4143
+      Mínimo: 0.0686
+      Máximo: 0.8124
+      Desvio Padrão: 0.1977
+
+  Para p = 2, k = 9:
+    Métrica: MAE
+      Média: 155.7376
+      Mínimo: 32.8370
+      Máximo: 383.9260
+      Desvio Padrão: 125.2742
+    Métrica: Median Absolute Error
+      Média: 84.1134
+      Mínimo: 20.9111
+      Máximo: 123.8560
+      Desvio Padrão: 24.2102
+    Métrica: RMSE
+      Média: 208.5909
+      Mínimo: 43.0971
+      Máximo: 551.9070
+      Desvio Padrão: 199.9153
+    Métrica: R2 Score
+      Média: 0.2793
+      Mínimo: 0.0447
+      Máximo: 0.7426
+      Desvio Padrão: 0.2027
+
+Estatísticas para o dataset: cocomo81
+  Para p = 1, k = 3:
+    Métrica: MAE
+      Média: 611.7027
+      Mínimo: 102.7690
+      Máximo: 1424.9100
+      Desvio Padrão: 383.0310
+    Métrica: Median Absolute Error
+      Média: 116.6889
+      Mínimo: 35.0000
+      Máximo: 259.0000
+      Desvio Padrão: 59.5828
+    Métrica: RMSE
+      Média: 1369.3291
+      Mínimo: 144.7420
+      Máximo: 3088.0800
+      Desvio Padrão: 901.0916
+    Métrica: R2 Score
+      Média: 0.4632
+      Mínimo: 0.0246
+      Máximo: 0.9521
+      Desvio Padrão: 0.2879
+
+  Para p = 1, k = 4:
+    Métrica: MAE
+      Média: 586.0846
+      Mínimo: 82.5962
+      Máximo: 1453.3200
+      Desvio Padrão: 366.7737
+    Métrica: Median Absolute Error
+      Média: 117.8750
+      Mínimo: 33.2500
+      Máximo: 249.2500
+      Desvio Padrão: 58.3390
+    Métrica: RMSE
+      Média: 1306.8442
+      Mínimo: 117.5300
+      Máximo: 3203.5400
+      Desvio Padrão: 894.5195
+    Métrica: R2 Score
+      Média: 0.4283
+      Mínimo: 0.0338
+      Máximo: 0.8388
+      Desvio Padrão: 0.2792
+
+  Para p = 1, k = 5:
+    Métrica: MAE
+      Média: 569.9270
+      Mínimo: 95.2154
+      Máximo: 1462.1300
+      Desvio Padrão: 357.9828
+    Métrica: Median Absolute Error
+      Média: 130.9067
+      Mínimo: 35.0000
+      Máximo: 299.6000
+      Desvio Padrão: 70.4121
+    Métrica: RMSE
+      Média: 1274.0996
+      Mínimo: 127.7490
+      Máximo: 3197.8700
+      Desvio Padrão: 901.0321
+    Métrica: R2 Score
+      Média: 0.4145
+      Mínimo: 0.0288
+      Máximo: 0.7595
+      Desvio Padrão: 0.2664
+
+  Para p = 1, k = 6:
+    Métrica: MAE
+      Média: 554.2633
+      Mínimo: 98.6410
+      Máximo: 1465.7600
+      Desvio Padrão: 358.8276
+    Métrica: Median Absolute Error
+      Média: 127.5611
+      Mínimo: 32.6667
+      Máximo: 273.1670
+      Desvio Padrão: 64.3403
+    Métrica: RMSE
+      Média: 1258.4601
+      Mínimo: 137.4720
+      Máximo: 3265.0100
+      Desvio Padrão: 933.7079
+    Métrica: R2 Score
+      Média: 0.4241
+      Mínimo: 0.0412
+      Máximo: 0.7125
+      Desvio Padrão: 0.2250
+
+  Para p = 1, k = 7:
+    Métrica: MAE
+      Média: 543.4652
+      Mínimo: 103.1870
+      Máximo: 1468.8300
+      Desvio Padrão: 368.5572
+    Métrica: Median Absolute Error
+      Média: 124.3243
+      Mínimo: 30.1429
+      Máximo: 300.2860
+      Desvio Padrão: 65.1623
+    Métrica: RMSE
+      Média: 1251.2586
+      Mínimo: 138.2540
+      Máximo: 3297.7200
+      Desvio Padrão: 964.7430
+    Métrica: R2 Score
+      Média: 0.3672
+      Mínimo: 0.0197
+      Máximo: 0.6634
+      Desvio Padrão: 0.2196
+
+  Para p = 1, k = 8:
+    Métrica: MAE
+      Média: 532.1041
+      Mínimo: 103.3560
+      Máximo: 1466.3900
+      Desvio Padrão: 379.3396
+    Métrica: Median Absolute Error
+      Média: 119.0837
+      Mínimo: 24.1250
+      Máximo: 263.2500
+      Desvio Padrão: 63.7839
+    Métrica: RMSE
+      Média: 1238.9247
+      Mínimo: 137.8470
+      Máximo: 3314.8100
+      Desvio Padrão: 993.6621
+    Métrica: R2 Score
+      Média: 0.3677
+      Mínimo: 0.1245
+      Máximo: 0.6098
+      Desvio Padrão: 0.1936
+
+  Para p = 1, k = 9:
+    Métrica: MAE
+      Média: 526.9643
+      Mínimo: 97.1991
+      Máximo: 1481.7000
+      Desvio Padrão: 388.1983
+    Métrica: Median Absolute Error
+      Média: 118.5263
+      Mínimo: 26.4444
+      Máximo: 231.3330
+      Desvio Padrão: 57.4601
+    Métrica: RMSE
+      Média: 1240.2828
+      Mínimo: 125.7380
+      Máximo: 3349.5300
+      Desvio Padrão: 1023.9785
+    Métrica: R2 Score
+      Média: 0.2966
+      Mínimo: 0.0391
+      Máximo: 0.5722
+      Desvio Padrão: 0.1867
+
+  Para p = 2, k = 3:
+    Métrica: MAE
+      Média: 619.4367
+      Mínimo: 110.3330
+      Máximo: 1424.0900
+      Desvio Padrão: 380.7348
+    Métrica: Median Absolute Error
+      Média: 133.3223
+      Mínimo: 48.0000
+      Máximo: 259.0000
+      Desvio Padrão: 67.1216
+    Métrica: RMSE
+      Média: 1372.5462
+      Mínimo: 150.9530
+      Máximo: 3088.1000
+      Desvio Padrão: 897.9162
+    Métrica: R2 Score
+      Média: 0.4606
+      Mínimo: 0.0206
+      Máximo: 0.9467
+      Desvio Padrão: 0.2885
+
+  Para p = 2, k = 4:
+    Métrica: MAE
+      Média: 595.7197
+      Mínimo: 104.6350
+      Máximo: 1455.4500
+      Desvio Padrão: 363.4762
+    Métrica: Median Absolute Error
+      Média: 139.4917
+      Mínimo: 49.0000
+      Máximo: 351.7500
+      Desvio Padrão: 68.3538
+    Métrica: RMSE
+      Média: 1311.8022
+      Mínimo: 151.7850
+      Máximo: 3204.9000
+      Desvio Padrão: 889.6087
+    Métrica: R2 Score
+      Média: 0.4488
+      Mínimo: 0.0330
+      Máximo: 0.8364
+      Desvio Padrão: 0.2767
+
+  Para p = 2, k = 5:
+    Métrica: MAE
+      Média: 572.9289
+      Mínimo: 111.7690
+      Máximo: 1466.2100
+      Desvio Padrão: 358.4162
+    Métrica: Median Absolute Error
+      Média: 135.7733
+      Mínimo: 39.4000
+      Máximo: 299.6000
+      Desvio Padrão: 68.0507
+    Métrica: RMSE
+      Média: 1274.5936
+      Mínimo: 146.8230
+      Máximo: 3198.8600
+      Desvio Padrão: 900.5751
+    Métrica: R2 Score
+      Média: 0.4312
+      Mínimo: 0.0282
+      Máximo: 0.7584
+      Desvio Padrão: 0.2505
+
+  Para p = 2, k = 6:
+    Métrica: MAE
+      Média: 558.1055
+      Mínimo: 112.2600
+      Máximo: 1471.1900
+      Desvio Padrão: 358.2033
+    Métrica: Median Absolute Error
+      Média: 135.0278
+      Mínimo: 40.1667
+      Máximo: 266.5000
+      Desvio Padrão: 63.3645
+    Métrica: RMSE
+      Média: 1259.2663
+      Mínimo: 141.7310
+      Máximo: 3265.4100
+      Desvio Padrão: 932.5822
+    Métrica: R2 Score
+      Média: 0.4167
+      Mínimo: 0.0412
+      Máximo: 0.7202
+      Desvio Padrão: 0.2240
+
+  Para p = 2, k = 7:
+    Métrica: MAE
+      Média: 547.2355
+      Mínimo: 114.5380
+      Máximo: 1461.2200
+      Desvio Padrão: 365.6590
+    Métrica: Median Absolute Error
+      Média: 130.8429
+      Mínimo: 33.4286
+      Máximo: 300.2860
+      Desvio Padrão: 65.0838
+    Métrica: RMSE
+      Média: 1252.2590
+      Mínimo: 147.6710
+      Máximo: 3293.2700
+      Desvio Padrão: 963.2589
+    Métrica: R2 Score
+      Média: 0.3774
+      Mínimo: 0.0197
+      Máximo: 0.6616
+      Desvio Padrão: 0.2100
+
+  Para p = 2, k = 8:
+    Métrica: MAE
+      Média: 538.1991
+      Mínimo: 118.0210
+      Máximo: 1468.3900
+      Desvio Padrão: 376.1171
+    Métrica: Median Absolute Error
+      Média: 128.3129
+      Mínimo: 29.1250
+      Máximo: 263.2500
+      Desvio Padrão: 61.5755
+    Métrica: RMSE
+      Média: 1242.1695
+      Mínimo: 148.1990
+      Máximo: 3314.8300
+      Desvio Padrão: 990.9858
+    Métrica: R2 Score
+      Média: 0.3696
+      Mínimo: 0.1231
+      Máximo: 0.6080
+      Desvio Padrão: 0.1910
+
+  Para p = 2, k = 9:
+    Métrica: MAE
+      Média: 532.6092
+      Mínimo: 113.8220
+      Máximo: 1483.2300
+      Desvio Padrão: 386.0037
+    Métrica: Median Absolute Error
+      Média: 127.5152
+      Mínimo: 26.4444
+      Máximo: 245.7780
+      Desvio Padrão: 59.3296
+    Métrica: RMSE
+      Média: 1242.8382
+      Mínimo: 147.7120
+      Máximo: 3349.5400
+      Desvio Padrão: 1021.7389
+    Métrica: R2 Score
+      Média: 0.2897
+      Mínimo: 0.0279
+      Máximo: 0.5722
+      Desvio Padrão: 0.1955
+
+Estatísticas para o dataset: china
+  Para p = 1, k = 3:
+    Métrica: MAE
+      Média: 463.5092
+      Mínimo: 258.6200
+      Máximo: 853.6070
+      Desvio Padrão: 143.1442
+    Métrica: Median Absolute Error
+      Média: 134.6889
+      Mínimo: 103.8330
+      Máximo: 195.6670
+      Desvio Padrão: 20.4560
+    Métrica: RMSE
+      Média: 1328.2737
+      Mínimo: 487.4450
+      Máximo: 3120.1400
+      Desvio Padrão: 609.5050
+    Métrica: R2 Score
+      Média: 0.9572
+      Mínimo: 0.8948
+      Máximo: 0.9840
+      Desvio Padrão: 0.0245
+
+  Para p = 1, k = 4:
+    Métrica: MAE
+      Média: 441.3429
+      Mínimo: 243.3900
+      Máximo: 814.4850
+      Desvio Padrão: 133.7023
+    Métrica: Median Absolute Error
+      Média: 133.9833
+      Mínimo: 101.8750
+      Máximo: 218.1250
+      Desvio Padrão: 21.8465
+    Métrica: RMSE
+      Média: 1244.5430
+      Mínimo: 462.3540
+      Máximo: 2951.8000
+      Desvio Padrão: 617.6508
+    Métrica: R2 Score
+      Média: 0.9624
+      Mínimo: 0.9000
+      Máximo: 0.9908
+      Desvio Padrão: 0.0237
+
+  Para p = 1, k = 5:
+    Métrica: MAE
+      Média: 427.7817
+      Mínimo: 238.8000
+      Máximo: 799.8820
+      Desvio Padrão: 134.6631
+    Métrica: Median Absolute Error
+      Média: 132.8700
+      Mínimo: 98.6000
+      Máximo: 183.1000
+      Desvio Padrão: 22.1597
+    Métrica: RMSE
+      Média: 1220.4667
+      Mínimo: 413.9780
+      Máximo: 3002.0600
+      Desvio Padrão: 646.7697
+    Métrica: R2 Score
+      Média: 0.9640
+      Mínimo: 0.9026
+      Máximo: 0.9906
+      Desvio Padrão: 0.0246
+
+  Para p = 1, k = 6:
+    Métrica: MAE
+      Média: 427.9655
+      Mínimo: 253.0820
+      Máximo: 843.6300
+      Desvio Padrão: 146.1480
+    Métrica: Median Absolute Error
+      Média: 136.1111
+      Mínimo: 106.2500
+      Máximo: 190.8330
+      Desvio Padrão: 22.3921
+    Métrica: RMSE
+      Média: 1244.0367
+      Mínimo: 441.8020
+      Máximo: 3145.8500
+      Desvio Padrão: 689.7455
+    Métrica: R2 Score
+      Média: 0.9623
+      Mínimo: 0.8907
+      Máximo: 0.9935
+      Desvio Padrão: 0.0273
+
+  Para p = 1, k = 7:
+    Métrica: MAE
+      Média: 429.9378
+      Mínimo: 256.1030
+      Máximo: 875.1210
+      Desvio Padrão: 154.7729
+    Métrica: Median Absolute Error
+      Média: 130.6715
+      Mínimo: 90.0000
+      Máximo: 172.9290
+      Desvio Padrão: 19.7480
+    Métrica: RMSE
+      Média: 1262.4585
+      Mínimo: 419.3570
+      Máximo: 3289.1300
+      Desvio Padrão: 740.0866
+    Métrica: R2 Score
+      Média: 0.9606
+      Mínimo: 0.8831
+      Máximo: 0.9954
+      Desvio Padrão: 0.0307
+
+  Para p = 1, k = 8:
+    Métrica: MAE
+      Média: 435.4393
+      Mínimo: 251.1500
+      Máximo: 891.5310
+      Desvio Padrão: 161.2487
+    Métrica: Median Absolute Error
+      Média: 131.5480
+      Mínimo: 96.1250
+      Máximo: 207.5620
+      Desvio Padrão: 24.0806
+    Métrica: RMSE
+      Média: 1299.8855
+      Mínimo: 432.4350
+      Máximo: 3415.6000
+      Desvio Padrão: 783.3958
+    Métrica: R2 Score
+      Média: 0.9579
+      Mínimo: 0.8740
+      Máximo: 0.9951
+      Desvio Padrão: 0.0342
+
+  Para p = 1, k = 9:
+    Métrica: MAE
+      Média: 441.3115
+      Mínimo: 246.8620
+      Máximo: 930.8910
+      Desvio Padrão: 166.7580
+    Métrica: Median Absolute Error
+      Média: 129.3908
+      Mínimo: 94.8333
+      Máximo: 182.1110
+      Desvio Padrão: 21.9763
+    Métrica: RMSE
+      Média: 1322.0167
+      Mínimo: 418.8760
+      Máximo: 3551.0900
+      Desvio Padrão: 822.6591
+    Métrica: R2 Score
+      Média: 0.9558
+      Mínimo: 0.8638
+      Máximo: 0.9922
+      Desvio Padrão: 0.0374
+
+  Para p = 2, k = 3:
+    Métrica: MAE
+      Média: 449.7992
+      Mínimo: 244.8200
+      Máximo: 820.4400
+      Desvio Padrão: 134.2434
+    Métrica: Median Absolute Error
+      Média: 137.4945
+      Mínimo: 102.3330
+      Máximo: 194.6670
+      Desvio Padrão: 25.4160
+    Métrica: RMSE
+      Média: 1284.0172
+      Mínimo: 447.5630
+      Máximo: 2976.1400
+      Desvio Padrão: 593.2687
+    Métrica: R2 Score
+      Média: 0.9600
+      Mínimo: 0.9043
+      Máximo: 0.9852
+      Desvio Padrão: 0.0234
+
+  Para p = 2, k = 4:
+    Métrica: MAE
+      Média: 433.4910
+      Mínimo: 248.0830
+      Máximo: 795.0900
+      Desvio Padrão: 133.8643
+    Métrica: Median Absolute Error
+      Média: 137.9708
+      Mínimo: 102.8750
+      Máximo: 200.2500
+      Desvio Padrão: 23.4782
+    Métrica: RMSE
+      Média: 1214.5153
+      Mínimo: 478.0590
+      Máximo: 2934.1100
+      Desvio Padrão: 628.2955
+    Métrica: R2 Score
+      Média: 0.9640
+      Mínimo: 0.9070
+      Máximo: 0.9907
+      Desvio Padrão: 0.0237
+
+  Para p = 2, k = 5:
+    Métrica: MAE
+      Média: 425.2490
+      Mínimo: 245.5020
+      Máximo: 813.0820
+      Desvio Padrão: 135.6563
+    Métrica: Median Absolute Error
+      Média: 138.4233
+      Mínimo: 105.7000
+      Máximo: 202.8000
+      Desvio Padrão: 22.2744
+    Métrica: RMSE
+      Média: 1197.1889
+      Mínimo: 433.1320
+      Máximo: 2938.9300
+      Desvio Padrão: 647.8238
+    Métrica: R2 Score
+      Média: 0.9650
+      Mínimo: 0.9042
+      Máximo: 0.9924
+      Desvio Padrão: 0.0244
+
+  Para p = 2, k = 6:
+    Métrica: MAE
+      Média: 429.0166
+      Mínimo: 251.5600
+      Máximo: 835.3980
+      Desvio Padrão: 146.2012
+    Métrica: Median Absolute Error
+      Média: 132.9973
+      Mínimo: 106.4170
+      Máximo: 168.2500
+      Desvio Padrão: 17.4220
+    Métrica: RMSE
+      Média: 1240.0545
+      Mínimo: 440.1660
+      Máximo: 3154.4500
+      Desvio Padrão: 688.8577
+    Métrica: R2 Score
+      Média: 0.9625
+      Mínimo: 0.8925
+      Máximo: 0.9921
+      Desvio Padrão: 0.0269
+
+  Para p = 2, k = 7:
+    Métrica: MAE
+      Média: 424.0037
+      Mínimo: 239.8400
+      Máximo: 855.7770
+      Desvio Padrão: 154.6255
+    Métrica: Median Absolute Error
+      Média: 131.8334
+      Mínimo: 101.6430
+      Máximo: 176.8570
+      Desvio Padrão: 19.6757
+    Métrica: RMSE
+      Média: 1225.3366
+      Mínimo: 408.5770
+      Máximo: 3293.2700
+      Desvio Padrão: 725.0412
+    Métrica: R2 Score
+      Média: 0.9630
+      Mínimo: 0.8828
+      Máximo: 0.9953
+      Desvio Padrão: 0.0293
+
+  Para p = 2, k = 8:
+    Métrica: MAE
+      Média: 426.3806
+      Mínimo: 239.8900
+      Máximo: 855.5210
+      Desvio Padrão: 158.4429
+    Métrica: Median Absolute Error
+      Média: 132.1605
+      Mínimo: 100.6880
+      Máximo: 177.4380
+      Desvio Padrão: 17.4993
+    Métrica: RMSE
+      Média: 1228.6338
+      Mínimo: 405.1240
+      Máximo: 3410.1800
+      Desvio Padrão: 763.3493
+    Métrica: R2 Score
+      Média: 0.9627
+      Mínimo: 0.8744
+      Máximo: 0.9947
+      Desvio Padrão: 0.0321
+
+  Para p = 2, k = 9:
+    Métrica: MAE
+      Média: 431.3906
+      Mínimo: 231.7710
+      Máximo: 895.4370
+      Desvio Padrão: 160.0762
+    Métrica: Median Absolute Error
+      Média: 131.2389
+      Mínimo: 100.9440
+      Máximo: 182.7220
+      Desvio Padrão: 18.9374
+    Métrica: RMSE
+      Média: 1258.7307
+      Mínimo: 406.2580
+      Máximo: 3530.9000
+      Desvio Padrão: 783.1770
+    Métrica: R2 Score
+      Média: 0.9607
+      Mínimo: 0.8653
+      Máximo: 0.9930
+      Desvio Padrão: 0.0343
+
+    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.0794746     2    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.0957372     1    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.121568      2    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.236128      1    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.219825      2    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.38964       1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.38964       2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.120321      1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.120321      2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.151961      1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.151961      2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.31331       2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0258328     1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0896509     2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.074788      1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.202868      1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.202868      2    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -13.8988        1    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -14.6166        2    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -16.3539        1    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -16.3598        2    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -15.8685        1    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -16.1157        2    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -15.5483        1    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -15.3875        2    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -11.5536        1    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -11.7881        2    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -10.0646        1    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -10.3725        2    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -8.77281       1    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -9.02713       2    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.840358      1    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.757045      2    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.424071      1    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.424071      2    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.490526      1    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.456763      2    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.750179      1    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.750179      2    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.274719      1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.274719      2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.238871      1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.238871      2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.305104      1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.306684      2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.385152      1    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.385152      2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.436729      1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.437454      2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.416744      1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.416744      2    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.430427      1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.430427      2    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                 -13.2624        1    3
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -8.05768       2    3
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -8.40299       1    4
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -8.40299       2    4
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -6.68305       1    5
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -7.23974       2    5
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -5.49195       1    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -3.28246       2    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -2.37055       1    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -2.36956       2    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -1.52143       1    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -1.29975       2    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -1.93478       1    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -2.11287       2    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.089309      1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.089309      2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0913412     1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0923413     2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0670902     1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0670902     2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.115551      1    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.118033      2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.172206      1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.172206      2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.217738      1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.217738      2    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.209815      1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.209815      2    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.483533      1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.483533      2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.00002       1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.00002       2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.514197      2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.431274      2    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -25.856         1    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -25.856         2    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -16.0175        1    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -16.0538        2    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -12.2919        1    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -12.2904        2    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -7.89434       1    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -7.90682       2    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -5.79019       1    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -5.79512       2    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -5.00801       1    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -5.06065       2    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -3.6856        1    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -3.73803       2    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.25631       1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.25631       2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.217285      1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.217285      2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.288467      1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.288467      2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.367173      1    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.367173      2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.41778       1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.418835      2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.398184      1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.398184      2    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.412426      1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.412426      2    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.105184      1    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.0850439     2    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.101753      2    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.117061      2    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.0395986     1    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.183072      2    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.0184978     2    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.124724      2    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.512823      2    3
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.192263      1    4
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.194025      2    4
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.139958      1    5
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.139958      2    5
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.348159      1    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.130177      1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.130177      2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.126894      1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.128005      2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.194372      1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.194372      2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.267745      1    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.267745      2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.314218      1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.314218      2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.305608      1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.305608      2    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.342796      1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.342796      2    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.0454501     1    5
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.0454501     2    5
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.175429      1    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.169175      2    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.00414419    1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.67809       1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.67809       2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.57977       1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.57977       2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.218748      1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.218748      2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.676653      1    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.676653      2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.317934      1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.317934      2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.762476      1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.762476      2    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.162261      1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.162261      2    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -8.55095       1    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -8.57363       2    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -4.34847       1    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -4.34855       2    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -2.46097       1    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -2.46105       2    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -1.49465       1    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -1.49461       2    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.693147      1    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.699727      2    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.188663      1    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.192589      2    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.350855      1    3
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.350855      2    3
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.225245      1    4
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.288117      2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0361451     1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.0361451     2    3
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.0324541     1    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.0303799     2    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.100972      1    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.100972      2    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.175389      1    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.174587      2    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -14.3864        1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -14.3864        2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -9.68705       1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -9.68705       2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -6.6177        1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -9.24177       2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -6.77125       1    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -6.77125       2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -12.1784        1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -12.1784        2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -15.6932        1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -15.6932        2    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -22.2104        1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                 -22.2104        2    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -19.8886        1    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -19.8886        2    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -12.0781        1    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                 -12.0791        2    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -7.14586       1    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -7.14711       2    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -5.35557       1    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -5.35595       2    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -3.28148       1    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -3.28198       2    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -2.15628       1    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -2.1763        2    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -1.30754       1    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -1.32364       2    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.268874      2    3
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.671285      1    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.477459      2    6
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.158298      1    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.304423      2    7
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.114382      1    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.0814731     2    8
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.147809      1    9
+Line did not match: datasets_2/albrecht.arff  R2 Score                  -0.147809      2    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.69944       1    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.953114      2    3
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.666511      1    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.666511      2    4
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.148355      1    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.148355      2    5
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -2.23529       2    6
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.23629       1    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -1.25331       2    7
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.973034      1    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.973034      2    8
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.856266      1    9
+Line did not match: datasets_2/kemerer.arff   R2 Score                  -0.856266      2    9
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -7.92532       1    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -7.92533       2    3
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -4.32367       1    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -4.34038       2    4
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -2.45973       1    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -2.47922       2    5
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -1.19387       1    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -1.19331       2    6
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.513989      1    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.51404       2    7
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.121501      1    8
+Line did not match: datasets_2/cocomo81.arff  R2 Score                  -0.124747      2    8

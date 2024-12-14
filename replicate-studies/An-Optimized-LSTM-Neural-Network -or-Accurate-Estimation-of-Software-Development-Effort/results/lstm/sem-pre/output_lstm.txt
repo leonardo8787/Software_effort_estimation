@@ -1,0 +1,642 @@
+Dataset                      Metric                   metric valor     e    n
+---------------------------  ---------------------  --------------  ----  ---
+../datasets_2/albrecht.arff  MAE                         6.21529     100   25
+../datasets_2/albrecht.arff  Median Absolute Error       6.09528     100   25
+../datasets_2/albrecht.arff  RMSE                        6.5556      100   25
+../datasets_2/albrecht.arff  R2 Score                   -8.88043     100   25
+../datasets_2/albrecht.arff  MAE                         3.90019     100   50
+../datasets_2/albrecht.arff  Median Absolute Error       3.76054     100   50
+../datasets_2/albrecht.arff  RMSE                        4.40431     100   50
+../datasets_2/albrecht.arff  R2 Score                   -3.45971     100   50
+../datasets_2/albrecht.arff  MAE                         2.12266     100   75
+../datasets_2/albrecht.arff  Median Absolute Error       1.84646     100   75
+../datasets_2/albrecht.arff  RMSE                        2.76358     100   75
+../datasets_2/albrecht.arff  R2 Score                   -0.755883    100   75
+../datasets_2/albrecht.arff  MAE                         1.56496     100  100
+../datasets_2/albrecht.arff  Median Absolute Error       0.902117    100  100
+../datasets_2/albrecht.arff  RMSE                        1.89499     100  100
+../datasets_2/albrecht.arff  R2 Score                    0.174407    100  100
+../datasets_2/albrecht.arff  MAE                         4.09404     200   25
+../datasets_2/albrecht.arff  Median Absolute Error       3.95618     200   25
+../datasets_2/albrecht.arff  RMSE                        4.57922     200   25
+../datasets_2/albrecht.arff  R2 Score                   -3.82096     200   25
+../datasets_2/albrecht.arff  MAE                         1.3131      200   50
+../datasets_2/albrecht.arff  Median Absolute Error       1.2744      200   50
+../datasets_2/albrecht.arff  RMSE                        1.69274     200   50
+../datasets_2/albrecht.arff  R2 Score                    0.341231    200   50
+../datasets_2/albrecht.arff  MAE                         1.26955     200   75
+../datasets_2/albrecht.arff  Median Absolute Error       0.483877    200   75
+../datasets_2/albrecht.arff  RMSE                        1.79463     200   75
+../datasets_2/albrecht.arff  R2 Score                    0.25954     200   75
+../datasets_2/albrecht.arff  MAE                         2.12092     200  100
+../datasets_2/albrecht.arff  Median Absolute Error       1.79865     200  100
+../datasets_2/albrecht.arff  RMSE                        2.57937     200  100
+../datasets_2/albrecht.arff  R2 Score                   -0.529596    200  100
+../datasets_2/albrecht.arff  MAE                         1.9124      300   25
+../datasets_2/albrecht.arff  Median Absolute Error       1.42685     300   25
+../datasets_2/albrecht.arff  RMSE                        2.45899     300   25
+../datasets_2/albrecht.arff  R2 Score                   -0.390158    300   25
+../datasets_2/albrecht.arff  MAE                         1.68703     300   50
+../datasets_2/albrecht.arff  Median Absolute Error       1.52267     300   50
+../datasets_2/albrecht.arff  RMSE                        2.13849     300   50
+../datasets_2/albrecht.arff  R2 Score                   -0.0513905   300   50
+../datasets_2/albrecht.arff  MAE                         3.50746     300   75
+../datasets_2/albrecht.arff  Median Absolute Error       3.53692     300   75
+../datasets_2/albrecht.arff  RMSE                        4.07861     300   75
+../datasets_2/albrecht.arff  R2 Score                   -2.8245      300   75
+../datasets_2/albrecht.arff  MAE                         4.77422     300  100
+../datasets_2/albrecht.arff  Median Absolute Error       5.10115     300  100
+../datasets_2/albrecht.arff  RMSE                        5.4053      300  100
+../datasets_2/albrecht.arff  R2 Score                   -5.71724     300  100
+../datasets_2/albrecht.arff  MAE                         2.6179      400   25
+../datasets_2/albrecht.arff  Median Absolute Error       2.69807     400   25
+../datasets_2/albrecht.arff  RMSE                        2.94857     400   25
+../datasets_2/albrecht.arff  R2 Score                   -0.998814    400   25
+../datasets_2/albrecht.arff  MAE                         4.25985     400   50
+../datasets_2/albrecht.arff  Median Absolute Error       3.92394     400   50
+../datasets_2/albrecht.arff  RMSE                        4.41574     400   50
+../datasets_2/albrecht.arff  R2 Score                   -3.48289     400   50
+../datasets_2/albrecht.arff  MAE                         1.75268     400   75
+../datasets_2/albrecht.arff  Median Absolute Error       1.63747     400   75
+../datasets_2/albrecht.arff  RMSE                        2.34692     400   75
+../datasets_2/albrecht.arff  R2 Score                   -0.266335    400   75
+../datasets_2/albrecht.arff  MAE                         3.22144     400  100
+../datasets_2/albrecht.arff  Median Absolute Error       1.32092     400  100
+../datasets_2/albrecht.arff  RMSE                        5.07087     400  100
+../datasets_2/albrecht.arff  R2 Score                   -4.91174     400  100
+../datasets_2/albrecht.arff  MAE                         3.19362     500   25
+../datasets_2/albrecht.arff  Median Absolute Error       2.94742     500   25
+../datasets_2/albrecht.arff  RMSE                        3.51841     500   25
+../datasets_2/albrecht.arff  R2 Score                   -1.84605     500   25
+../datasets_2/albrecht.arff  MAE                         1.79457     500   50
+../datasets_2/albrecht.arff  Median Absolute Error       1.23175     500   50
+../datasets_2/albrecht.arff  RMSE                        2.23723     500   50
+../datasets_2/albrecht.arff  R2 Score                   -0.150729    500   50
+../datasets_2/albrecht.arff  MAE                         3.21241     500   75
+../datasets_2/albrecht.arff  Median Absolute Error       1.56222     500   75
+../datasets_2/albrecht.arff  RMSE                        4.52265     500   75
+../datasets_2/albrecht.arff  R2 Score                   -3.70259     500   75
+../datasets_2/albrecht.arff  MAE                         3.83632     500  100
+../datasets_2/albrecht.arff  Median Absolute Error       1.40614     500  100
+../datasets_2/albrecht.arff  RMSE                        6.40721     500  100
+../datasets_2/albrecht.arff  R2 Score                   -8.4382      500  100
+../datasets_2/albrecht.arff  MAE                         1.67237     600   25
+../datasets_2/albrecht.arff  Median Absolute Error       1.8537      600   25
+../datasets_2/albrecht.arff  RMSE                        1.94635     600   25
+../datasets_2/albrecht.arff  R2 Score                    0.129056    600   25
+../datasets_2/albrecht.arff  MAE                         1.80396     600   50
+../datasets_2/albrecht.arff  Median Absolute Error       1.23356     600   50
+../datasets_2/albrecht.arff  RMSE                        2.55716     600   50
+../datasets_2/albrecht.arff  R2 Score                   -0.503377    600   50
+../datasets_2/albrecht.arff  MAE                         3.71094     600   75
+../datasets_2/albrecht.arff  Median Absolute Error       1.71848     600   75
+../datasets_2/albrecht.arff  RMSE                        5.92752     600   75
+../datasets_2/albrecht.arff  R2 Score                   -7.07786     600   75
+../datasets_2/albrecht.arff  MAE                         4.38381     600  100
+../datasets_2/albrecht.arff  Median Absolute Error       0.863356    600  100
+../datasets_2/albrecht.arff  RMSE                        7.74184     600  100
+../datasets_2/albrecht.arff  R2 Score                  -12.7797      600  100
+../datasets_2/albrecht.arff  MAE                         0.951366    700   25
+../datasets_2/albrecht.arff  Median Absolute Error       0.449634    700   25
+../datasets_2/albrecht.arff  RMSE                        1.32868     700   25
+../datasets_2/albrecht.arff  R2 Score                    0.594125    700   25
+../datasets_2/albrecht.arff  MAE                         2.81492     700   50
+../datasets_2/albrecht.arff  Median Absolute Error       0.775104    700   50
+../datasets_2/albrecht.arff  RMSE                        4.38753     700   50
+../datasets_2/albrecht.arff  R2 Score                   -3.4258      700   50
+../datasets_2/albrecht.arff  MAE                         4.2285      700   75
+../datasets_2/albrecht.arff  Median Absolute Error       2.14016     700   75
+../datasets_2/albrecht.arff  RMSE                        6.91766     700   75
+../datasets_2/albrecht.arff  R2 Score                  -10.002       700   75
+../datasets_2/albrecht.arff  MAE                         6.4564      700  100
+../datasets_2/albrecht.arff  Median Absolute Error       3.73067     700  100
+../datasets_2/albrecht.arff  RMSE                        9.53589     700  100
+../datasets_2/albrecht.arff  R2 Score                  -19.9061      700  100
+../datasets_2/albrecht.arff  MAE                         1.26798     800   25
+../datasets_2/albrecht.arff  Median Absolute Error       1.20034     800   25
+../datasets_2/albrecht.arff  RMSE                        1.46218     800   25
+../datasets_2/albrecht.arff  R2 Score                    0.50847     800   25
+../datasets_2/albrecht.arff  MAE                         3.40758     800   50
+../datasets_2/albrecht.arff  Median Absolute Error       0.506388    800   50
+../datasets_2/albrecht.arff  RMSE                        5.62095     800   50
+../datasets_2/albrecht.arff  R2 Score                   -6.2639      800   50
+../datasets_2/albrecht.arff  MAE                         4.55144     800   75
+../datasets_2/albrecht.arff  Median Absolute Error       2.18224     800   75
+../datasets_2/albrecht.arff  RMSE                        7.18631     800   75
+../datasets_2/albrecht.arff  R2 Score                  -10.873       800   75
+../datasets_2/albrecht.arff  MAE                         6.10529     800  100
+../datasets_2/albrecht.arff  Median Absolute Error       2.78568     800  100
+../datasets_2/albrecht.arff  RMSE                        9.26508     800  100
+../datasets_2/albrecht.arff  R2 Score                  -18.7355      800  100
+../datasets_2/albrecht.arff  MAE                         2.47498     900   25
+../datasets_2/albrecht.arff  Median Absolute Error       2.23962     900   25
+../datasets_2/albrecht.arff  RMSE                        3.28215     900   25
+../datasets_2/albrecht.arff  R2 Score                   -1.47666     900   25
+../datasets_2/albrecht.arff  MAE                         4.92678     900   50
+../datasets_2/albrecht.arff  Median Absolute Error       2.96836     900   50
+../datasets_2/albrecht.arff  RMSE                        7.42212     900   50
+../datasets_2/albrecht.arff  R2 Score                  -11.665       900   50
+../datasets_2/albrecht.arff  MAE                         6.50323     900   75
+../datasets_2/albrecht.arff  Median Absolute Error       3.16067     900   75
+../datasets_2/albrecht.arff  RMSE                       10.2541      900   75
+../datasets_2/albrecht.arff  R2 Score                  -23.1738      900   75
+../datasets_2/albrecht.arff  MAE                         6.27759     900  100
+../datasets_2/albrecht.arff  Median Absolute Error       1.9862      900  100
+../datasets_2/albrecht.arff  RMSE                       10.6483      900  100
+../datasets_2/albrecht.arff  R2 Score                  -25.0681      900  100
+../datasets_2/albrecht.arff  MAE                         1.98193    1000   25
+../datasets_2/albrecht.arff  Median Absolute Error       1.78147    1000   25
+../datasets_2/albrecht.arff  RMSE                        2.16827    1000   25
+../datasets_2/albrecht.arff  R2 Score                   -0.0808769  1000   25
+../datasets_2/albrecht.arff  MAE                         3.50005    1000   50
+../datasets_2/albrecht.arff  Median Absolute Error       0.562221   1000   50
+../datasets_2/albrecht.arff  RMSE                        5.99772    1000   50
+../datasets_2/albrecht.arff  R2 Score                   -7.27032    1000   50
+../datasets_2/albrecht.arff  MAE                         6.47078    1000   75
+../datasets_2/albrecht.arff  Median Absolute Error       1.32586    1000   75
+../datasets_2/albrecht.arff  RMSE                       10.7757     1000   75
+../datasets_2/albrecht.arff  R2 Score                  -25.6957     1000   75
+../datasets_2/albrecht.arff  MAE                         6.34965    1000  100
+../datasets_2/albrecht.arff  Median Absolute Error       1.91161    1000  100
+../datasets_2/albrecht.arff  RMSE                       10.4151     1000  100
+../datasets_2/albrecht.arff  R2 Score                  -23.9391     1000  100
+../datasets_2/kemerer.arff   MAE                        92.5282      100   25
+../datasets_2/kemerer.arff   Median Absolute Error      81.086       100   25
+../datasets_2/kemerer.arff   RMSE                       95.8875      100   25
+../datasets_2/kemerer.arff   R2 Score                  -13.5518      100   25
+../datasets_2/kemerer.arff   MAE                        88.9772      100   50
+../datasets_2/kemerer.arff   Median Absolute Error      77.6167      100   50
+../datasets_2/kemerer.arff   RMSE                       92.4964      100   50
+../datasets_2/kemerer.arff   R2 Score                  -12.5407      100   50
+../datasets_2/kemerer.arff   MAE                        85.9803      100   75
+../datasets_2/kemerer.arff   Median Absolute Error      74.4461      100   75
+../datasets_2/kemerer.arff   RMSE                       89.6666      100   75
+../datasets_2/kemerer.arff   R2 Score                  -11.7249      100   75
+../datasets_2/kemerer.arff   MAE                        86.0546      100  100
+../datasets_2/kemerer.arff   Median Absolute Error      74.6416      100  100
+../datasets_2/kemerer.arff   RMSE                       89.6782      100  100
+../datasets_2/kemerer.arff   R2 Score                  -11.7282      100  100
+../datasets_2/kemerer.arff   MAE                        89.2543      200   25
+../datasets_2/kemerer.arff   Median Absolute Error      77.8164      200   25
+../datasets_2/kemerer.arff   RMSE                       92.7275      200   25
+../datasets_2/kemerer.arff   R2 Score                  -12.6084      200   25
+../datasets_2/kemerer.arff   MAE                        87.806       200   50
+../datasets_2/kemerer.arff   Median Absolute Error      76.3562      200   50
+../datasets_2/kemerer.arff   RMSE                       91.3367      200   50
+../datasets_2/kemerer.arff   R2 Score                  -12.2033      200   50
+../datasets_2/kemerer.arff   MAE                        77.5889      200   75
+../datasets_2/kemerer.arff   Median Absolute Error      66.1511      200   75
+../datasets_2/kemerer.arff   RMSE                       81.5867      200   75
+../datasets_2/kemerer.arff   R2 Score                   -9.53488     200   75
+../datasets_2/kemerer.arff   MAE                        72.8896      200  100
+../datasets_2/kemerer.arff   Median Absolute Error      61.474       200  100
+../datasets_2/kemerer.arff   RMSE                       77.1094      200  100
+../datasets_2/kemerer.arff   R2 Score                   -8.41035     200  100
+../datasets_2/kemerer.arff   MAE                        85.2061      300   25
+../datasets_2/kemerer.arff   Median Absolute Error      73.7768      300   25
+../datasets_2/kemerer.arff   RMSE                       88.8393      300   25
+../datasets_2/kemerer.arff   R2 Score                  -11.4911      300   25
+../datasets_2/kemerer.arff   MAE                        78.5614      300   50
+../datasets_2/kemerer.arff   Median Absolute Error      67.1272      300   50
+../datasets_2/kemerer.arff   RMSE                       82.4848      300   50
+../datasets_2/kemerer.arff   R2 Score                   -9.76809     300   50
+../datasets_2/kemerer.arff   MAE                        69.5459      300   75
+../datasets_2/kemerer.arff   Median Absolute Error      58.1163      300   75
+../datasets_2/kemerer.arff   RMSE                       73.9503      300   75
+../datasets_2/kemerer.arff   R2 Score                   -7.65509     300   75
+../datasets_2/kemerer.arff   MAE                        65.2661      300  100
+../datasets_2/kemerer.arff   Median Absolute Error      53.7155      300  100
+../datasets_2/kemerer.arff   RMSE                       69.8976      300  100
+../datasets_2/kemerer.arff   R2 Score                   -6.73243     300  100
+../datasets_2/kemerer.arff   MAE                        84.602       400   25
+../datasets_2/kemerer.arff   Median Absolute Error      73.1669      400   25
+../datasets_2/kemerer.arff   RMSE                       88.2572      400   25
+../datasets_2/kemerer.arff   R2 Score                  -11.328       400   25
+../datasets_2/kemerer.arff   MAE                        75.349       400   50
+../datasets_2/kemerer.arff   Median Absolute Error      63.9139      400   50
+../datasets_2/kemerer.arff   RMSE                       79.4309      400   50
+../datasets_2/kemerer.arff   R2 Score                   -8.98552     400   50
+../datasets_2/kemerer.arff   MAE                        64.9809      400   75
+../datasets_2/kemerer.arff   Median Absolute Error      53.4517      400   75
+../datasets_2/kemerer.arff   RMSE                       69.6405      400   75
+../datasets_2/kemerer.arff   R2 Score                   -6.67566     400   75
+../datasets_2/kemerer.arff   MAE                        60.0196      400  100
+../datasets_2/kemerer.arff   Median Absolute Error      47.9717      400  100
+../datasets_2/kemerer.arff   RMSE                       64.8513      400  100
+../datasets_2/kemerer.arff   R2 Score                   -5.65623     400  100
+../datasets_2/kemerer.arff   MAE                        79.6849      500   25
+../datasets_2/kemerer.arff   Median Absolute Error      68.2505      500   25
+../datasets_2/kemerer.arff   RMSE                       83.5551      500   25
+../datasets_2/kemerer.arff   R2 Score                  -10.0494      500   25
+../datasets_2/kemerer.arff   MAE                        69.2601      500   50
+../datasets_2/kemerer.arff   Median Absolute Error      57.8373      500   50
+../datasets_2/kemerer.arff   RMSE                       73.6866      500   50
+../datasets_2/kemerer.arff   R2 Score                   -7.59347     500   50
+../datasets_2/kemerer.arff   MAE                        60.3331      500   75
+../datasets_2/kemerer.arff   Median Absolute Error      48.4232      500   75
+../datasets_2/kemerer.arff   RMSE                       65.1887      500   75
+../datasets_2/kemerer.arff   R2 Score                   -5.72567     500   75
+../datasets_2/kemerer.arff   MAE                        50.6523      500  100
+../datasets_2/kemerer.arff   Median Absolute Error      38.0936      500  100
+../datasets_2/kemerer.arff   RMSE                       56.0957      500  100
+../datasets_2/kemerer.arff   R2 Score                   -3.98024     500  100
+../datasets_2/kemerer.arff   MAE                        78.2995      600   25
+../datasets_2/kemerer.arff   Median Absolute Error      66.8648      600   25
+../datasets_2/kemerer.arff   RMSE                       82.235       600   25
+../datasets_2/kemerer.arff   R2 Score                   -9.70298     600   25
+../datasets_2/kemerer.arff   MAE                        67.5294      600   50
+../datasets_2/kemerer.arff   Median Absolute Error      56.0453      600   50
+../datasets_2/kemerer.arff   RMSE                       72.04        600   50
+../datasets_2/kemerer.arff   R2 Score                   -7.21371     600   50
+../datasets_2/kemerer.arff   MAE                        54.7743      600   75
+../datasets_2/kemerer.arff   Median Absolute Error      43.0283      600   75
+../datasets_2/kemerer.arff   RMSE                       60.1426      600   75
+../datasets_2/kemerer.arff   R2 Score                   -4.72474     600   75
+../datasets_2/kemerer.arff   MAE                        44.2709      600  100
+../datasets_2/kemerer.arff   Median Absolute Error      31.1441      600  100
+../datasets_2/kemerer.arff   RMSE                       50.2158      600  100
+../datasets_2/kemerer.arff   R2 Score                   -2.9909      600  100
+../datasets_2/kemerer.arff   MAE                        77.3621      700   25
+../datasets_2/kemerer.arff   Median Absolute Error      65.9281      700   25
+../datasets_2/kemerer.arff   RMSE                       81.3429      700   25
+../datasets_2/kemerer.arff   R2 Score                   -9.47203     700   25
+../datasets_2/kemerer.arff   MAE                        61.461       700   50
+../datasets_2/kemerer.arff   Median Absolute Error      49.9081      700   50
+../datasets_2/kemerer.arff   RMSE                       66.3591      700   50
+../datasets_2/kemerer.arff   R2 Score                   -5.96936     700   50
+../datasets_2/kemerer.arff   MAE                        46.1167      700   75
+../datasets_2/kemerer.arff   Median Absolute Error      34.3232      700   75
+../datasets_2/kemerer.arff   RMSE                       52.3612      700   75
+../datasets_2/kemerer.arff   R2 Score                   -3.33921     700   75
+../datasets_2/kemerer.arff   MAE                        37.8256      700  100
+../datasets_2/kemerer.arff   Median Absolute Error      23.1169      700  100
+../datasets_2/kemerer.arff   RMSE                       43.8788      700  100
+../datasets_2/kemerer.arff   R2 Score                   -2.04719     700  100
+../datasets_2/kemerer.arff   MAE                        74.6679      800   25
+../datasets_2/kemerer.arff   Median Absolute Error      63.2344      800   25
+../datasets_2/kemerer.arff   RMSE                       78.7853      800   25
+../datasets_2/kemerer.arff   R2 Score                   -8.82385     800   25
+../datasets_2/kemerer.arff   MAE                        54.9915      800   50
+../datasets_2/kemerer.arff   Median Absolute Error      43.3829      800   50
+../datasets_2/kemerer.arff   RMSE                       60.3751      800   50
+../datasets_2/kemerer.arff   R2 Score                   -4.76908     800   50
+../datasets_2/kemerer.arff   MAE                        42.6886      800   75
+../datasets_2/kemerer.arff   Median Absolute Error      29.2743      800   75
+../datasets_2/kemerer.arff   RMSE                       48.6486      800   75
+../datasets_2/kemerer.arff   R2 Score                   -2.74569     800   75
+../datasets_2/kemerer.arff   MAE                        31.4182      800  100
+../datasets_2/kemerer.arff   Median Absolute Error      16.1627      800  100
+../datasets_2/kemerer.arff   RMSE                       38.2135      800  100
+../datasets_2/kemerer.arff   R2 Score                   -1.31113     800  100
+../datasets_2/kemerer.arff   MAE                        70.9282      900   25
+../datasets_2/kemerer.arff   Median Absolute Error      59.4944      900   25
+../datasets_2/kemerer.arff   RMSE                       75.2504      900   25
+../datasets_2/kemerer.arff   R2 Score                   -7.96208     900   25
+../datasets_2/kemerer.arff   MAE                        55.9951      900   50
+../datasets_2/kemerer.arff   Median Absolute Error      44.003       900   50
+../datasets_2/kemerer.arff   RMSE                       61.1613      900   50
+../datasets_2/kemerer.arff   R2 Score                   -4.92032     900   50
+../datasets_2/kemerer.arff   MAE                        44.3361      900   75
+../datasets_2/kemerer.arff   Median Absolute Error      29.2985      900   75
+../datasets_2/kemerer.arff   RMSE                       49.5265      900   75
+../datasets_2/kemerer.arff   R2 Score                   -2.8821      900   75
+../datasets_2/kemerer.arff   MAE                        30.5833      900  100
+../datasets_2/kemerer.arff   Median Absolute Error      17.6041      900  100
+../datasets_2/kemerer.arff   RMSE                       37.0767      900  100
+../datasets_2/kemerer.arff   R2 Score                   -1.17567     900  100
+../datasets_2/kemerer.arff   MAE                        68.4446     1000   25
+../datasets_2/kemerer.arff   Median Absolute Error      57.0107     1000   25
+../datasets_2/kemerer.arff   RMSE                       72.9141     1000   25
+../datasets_2/kemerer.arff   R2 Score                   -7.41423    1000   25
+../datasets_2/kemerer.arff   MAE                        46.8087     1000   50
+../datasets_2/kemerer.arff   Median Absolute Error      34.1004     1000   50
+../datasets_2/kemerer.arff   RMSE                       52.5705     1000   50
+../datasets_2/kemerer.arff   R2 Score                   -3.37397    1000   50
+../datasets_2/kemerer.arff   MAE                        34.5694     1000   75
+../datasets_2/kemerer.arff   Median Absolute Error      19.802      1000   75
+../datasets_2/kemerer.arff   RMSE                       41.054      1000   75
+../datasets_2/kemerer.arff   R2 Score                   -1.66749    1000   75
+../datasets_2/kemerer.arff   MAE                        29.8259     1000  100
+../datasets_2/kemerer.arff   Median Absolute Error      21.304      1000  100
+../datasets_2/kemerer.arff   RMSE                       35.783      1000  100
+../datasets_2/kemerer.arff   R2 Score                   -1.02649    1000  100
+../datasets_2/cocomo81.arff  MAE                       793.188       100   25
+../datasets_2/cocomo81.arff  Median Absolute Error     119.016       100   25
+../datasets_2/cocomo81.arff  RMSE                     1843.79        100   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.227002    100   25
+../datasets_2/cocomo81.arff  MAE                       787.364       100   50
+../datasets_2/cocomo81.arff  Median Absolute Error     110.927       100   50
+../datasets_2/cocomo81.arff  RMSE                     1840.31        100   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.222374    100   50
+../datasets_2/cocomo81.arff  MAE                       784.674       100   75
+../datasets_2/cocomo81.arff  Median Absolute Error     106.745       100   75
+../datasets_2/cocomo81.arff  RMSE                     1838.57        100   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.220076    100   75
+../datasets_2/cocomo81.arff  MAE                       781.503       100  100
+../datasets_2/cocomo81.arff  Median Absolute Error     100.942       100  100
+../datasets_2/cocomo81.arff  RMSE                     1836.11        100  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.216812    100  100
+../datasets_2/cocomo81.arff  MAE                       789.625       200   25
+../datasets_2/cocomo81.arff  Median Absolute Error     114.213       200   25
+../datasets_2/cocomo81.arff  RMSE                     1841.68        200   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.224197    200   25
+../datasets_2/cocomo81.arff  MAE                       781.982       200   50
+../datasets_2/cocomo81.arff  Median Absolute Error     101.874       200   50
+../datasets_2/cocomo81.arff  RMSE                     1836.43        200   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.217228    200   50
+../datasets_2/cocomo81.arff  MAE                       776.751       200   75
+../datasets_2/cocomo81.arff  Median Absolute Error      92.2157      200   75
+../datasets_2/cocomo81.arff  RMSE                     1832.37        200   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.211849    200   75
+../datasets_2/cocomo81.arff  MAE                       772.738       200  100
+../datasets_2/cocomo81.arff  Median Absolute Error      84.8902      200  100
+../datasets_2/cocomo81.arff  RMSE                     1829.35        200  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.207859    200  100
+../datasets_2/cocomo81.arff  MAE                       785.84        300   25
+../datasets_2/cocomo81.arff  Median Absolute Error     108.763       300   25
+../datasets_2/cocomo81.arff  RMSE                     1839.35        300   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.221103    300   25
+../datasets_2/cocomo81.arff  MAE                       778.187       300   50
+../datasets_2/cocomo81.arff  Median Absolute Error      94.8806      300   50
+../datasets_2/cocomo81.arff  RMSE                     1833.48        300   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.21333     300   50
+../datasets_2/cocomo81.arff  MAE                       770.448       300   75
+../datasets_2/cocomo81.arff  Median Absolute Error      80.2021      300   75
+../datasets_2/cocomo81.arff  RMSE                     1827.38        300   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.205261    300   75
+../datasets_2/cocomo81.arff  MAE                       764.978       300  100
+../datasets_2/cocomo81.arff  Median Absolute Error      67.1779      300  100
+../datasets_2/cocomo81.arff  RMSE                     1822.02        300  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.198208    300  100
+../datasets_2/cocomo81.arff  MAE                       783.331       400   25
+../datasets_2/cocomo81.arff  Median Absolute Error     104.356       400   25
+../datasets_2/cocomo81.arff  RMSE                     1837.48        400   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.218621    400   25
+../datasets_2/cocomo81.arff  MAE                       773.689       400   50
+../datasets_2/cocomo81.arff  Median Absolute Error      86.8615      400   50
+../datasets_2/cocomo81.arff  RMSE                     1830.13        400   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.208898    400   50
+../datasets_2/cocomo81.arff  MAE                       765.462       400   75
+../datasets_2/cocomo81.arff  Median Absolute Error      68.4689      400   75
+../datasets_2/cocomo81.arff  RMSE                     1822.55        400   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.1989      400   75
+../datasets_2/cocomo81.arff  MAE                       761.404       400  100
+../datasets_2/cocomo81.arff  Median Absolute Error      60.7368      400  100
+../datasets_2/cocomo81.arff  RMSE                     1817.38        400  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.192112    400  100
+../datasets_2/cocomo81.arff  MAE                       781.572       500   25
+../datasets_2/cocomo81.arff  Median Absolute Error     101.057       500   25
+../datasets_2/cocomo81.arff  RMSE                     1836.08        500   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.216773    500   25
+../datasets_2/cocomo81.arff  MAE                       770.353       500   50
+../datasets_2/cocomo81.arff  Median Absolute Error      80.6238      500   50
+../datasets_2/cocomo81.arff  RMSE                     1827.55        500   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.205483    500   50
+../datasets_2/cocomo81.arff  MAE                       758.66        500   75
+../datasets_2/cocomo81.arff  Median Absolute Error      54.6672      500   75
+../datasets_2/cocomo81.arff  RMSE                     1816.89        500   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.191466    500   75
+../datasets_2/cocomo81.arff  MAE                       752.386       500  100
+../datasets_2/cocomo81.arff  Median Absolute Error      63.1484      500  100
+../datasets_2/cocomo81.arff  RMSE                     1809.75        500  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.182127    500  100
+../datasets_2/cocomo81.arff  MAE                       776.793       600   25
+../datasets_2/cocomo81.arff  Median Absolute Error      92.2004      600   25
+../datasets_2/cocomo81.arff  RMSE                     1832.36        600   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.211846    600   25
+../datasets_2/cocomo81.arff  MAE                       764.275       600   50
+../datasets_2/cocomo81.arff  Median Absolute Error      67.6144      600   50
+../datasets_2/cocomo81.arff  RMSE                     1822.17        600   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.198398    600   50
+../datasets_2/cocomo81.arff  MAE                       757.141       600   75
+../datasets_2/cocomo81.arff  Median Absolute Error      52.4024      600   75
+../datasets_2/cocomo81.arff  RMSE                     1815.96        600   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.190241    600   75
+../datasets_2/cocomo81.arff  MAE                       746.38        600  100
+../datasets_2/cocomo81.arff  Median Absolute Error      56.3775      600  100
+../datasets_2/cocomo81.arff  RMSE                     1805.54        600  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.17663     600  100
+../datasets_2/cocomo81.arff  MAE                       777.223       700   25
+../datasets_2/cocomo81.arff  Median Absolute Error      93.0415      700   25
+../datasets_2/cocomo81.arff  RMSE                     1832.73        700   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.212336    700   25
+../datasets_2/cocomo81.arff  MAE                       763.752       700   50
+../datasets_2/cocomo81.arff  Median Absolute Error      67.4572      700   50
+../datasets_2/cocomo81.arff  RMSE                     1822.09        700   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.1983      700   50
+../datasets_2/cocomo81.arff  MAE                       749.315       700   75
+../datasets_2/cocomo81.arff  Median Absolute Error      45.9088      700   75
+../datasets_2/cocomo81.arff  RMSE                     1810.26        700   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.182791    700   75
+../datasets_2/cocomo81.arff  MAE                       739.229       700  100
+../datasets_2/cocomo81.arff  Median Absolute Error      71.9632      700  100
+../datasets_2/cocomo81.arff  RMSE                     1798.54        700  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.167523    700  100
+../datasets_2/cocomo81.arff  MAE                       774.985       800   25
+../datasets_2/cocomo81.arff  Median Absolute Error      88.852       800   25
+../datasets_2/cocomo81.arff  RMSE                     1830.97        800   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.209998    800   25
+../datasets_2/cocomo81.arff  MAE                       756.917       800   50
+../datasets_2/cocomo81.arff  Median Absolute Error      54.7313      800   50
+../datasets_2/cocomo81.arff  RMSE                     1816.86        800   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.191428    800   50
+../datasets_2/cocomo81.arff  MAE                       745.692       800   75
+../datasets_2/cocomo81.arff  Median Absolute Error      51.987       800   75
+../datasets_2/cocomo81.arff  RMSE                     1806.47        800   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.177834    800   75
+../datasets_2/cocomo81.arff  MAE                       737.467       800  100
+../datasets_2/cocomo81.arff  Median Absolute Error      87.0728      800  100
+../datasets_2/cocomo81.arff  RMSE                     1792.68        800  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.159928    800  100
+../datasets_2/cocomo81.arff  MAE                       771.935       900   25
+../datasets_2/cocomo81.arff  Median Absolute Error      83.8713      900   25
+../datasets_2/cocomo81.arff  RMSE                     1828.89        900   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.207254    900   25
+../datasets_2/cocomo81.arff  MAE                       754.1         900   50
+../datasets_2/cocomo81.arff  Median Absolute Error      50.1494      900   50
+../datasets_2/cocomo81.arff  RMSE                     1814.98        900   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.188965    900   50
+../datasets_2/cocomo81.arff  MAE                       741.282       900   75
+../datasets_2/cocomo81.arff  Median Absolute Error      70.3237      900   75
+../datasets_2/cocomo81.arff  RMSE                     1799.23        900   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.168418    900   75
+../datasets_2/cocomo81.arff  MAE                       738.39        900  100
+../datasets_2/cocomo81.arff  Median Absolute Error      98.2226      900  100
+../datasets_2/cocomo81.arff  RMSE                     1788.44        900  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.154449    900  100
+../datasets_2/cocomo81.arff  MAE                       769.599      1000   25
+../datasets_2/cocomo81.arff  Median Absolute Error      79.3917     1000   25
+../datasets_2/cocomo81.arff  RMSE                     1827.03       1000   25
+../datasets_2/cocomo81.arff  R2 Score                   -0.204802   1000   25
+../datasets_2/cocomo81.arff  MAE                       750.692      1000   50
+../datasets_2/cocomo81.arff  Median Absolute Error      42.4091     1000   50
+../datasets_2/cocomo81.arff  RMSE                     1811.85       1000   50
+../datasets_2/cocomo81.arff  R2 Score                   -0.184871   1000   50
+../datasets_2/cocomo81.arff  MAE                       736.761      1000   75
+../datasets_2/cocomo81.arff  Median Absolute Error      77.998      1000   75
+../datasets_2/cocomo81.arff  RMSE                     1796.16       1000   75
+../datasets_2/cocomo81.arff  R2 Score                   -0.164435   1000   75
+../datasets_2/cocomo81.arff  MAE                       736.749      1000  100
+../datasets_2/cocomo81.arff  Median Absolute Error     118.083      1000  100
+../datasets_2/cocomo81.arff  RMSE                     1780.9        1000  100
+../datasets_2/cocomo81.arff  R2 Score                   -0.144734   1000  100
+../datasets_2/china.arff     MAE                      4411.8         100   25
+../datasets_2/china.arff     Median Absolute Error    2353.21        100   25
+../datasets_2/china.arff     RMSE                     8333.47        100   25
+../datasets_2/china.arff     R2 Score                   -0.389412    100   25
+../datasets_2/china.arff     MAE                      4388.26        100   50
+../datasets_2/china.arff     Median Absolute Error    2329.68        100   50
+../datasets_2/china.arff     RMSE                     8321.04        100   50
+../datasets_2/china.arff     R2 Score                   -0.385269    100   50
+../datasets_2/china.arff     MAE                      4366.82        100   75
+../datasets_2/china.arff     Median Absolute Error    2308.24        100   75
+../datasets_2/china.arff     RMSE                     8309.75        100   75
+../datasets_2/china.arff     R2 Score                   -0.381513    100   75
+../datasets_2/china.arff     MAE                      4333.68        100  100
+../datasets_2/china.arff     Median Absolute Error    2275.09        100  100
+../datasets_2/china.arff     RMSE                     8292.38        100  100
+../datasets_2/china.arff     R2 Score                   -0.375742    100  100
+../datasets_2/china.arff     MAE                      4391.98        200   25
+../datasets_2/china.arff     Median Absolute Error    2333.4         200   25
+../datasets_2/china.arff     RMSE                     8323           200   25
+../datasets_2/china.arff     R2 Score                   -0.385923    200   25
+../datasets_2/china.arff     MAE                      4342.58        200   50
+../datasets_2/china.arff     Median Absolute Error    2283.99        200   50
+../datasets_2/china.arff     RMSE                     8297.03        200   50
+../datasets_2/china.arff     R2 Score                   -0.377288    200   50
+../datasets_2/china.arff     MAE                      4278.86        200   75
+../datasets_2/china.arff     Median Absolute Error    2219.39        200   75
+../datasets_2/china.arff     RMSE                     8263.4         200   75
+../datasets_2/china.arff     R2 Score                   -0.366146    200   75
+../datasets_2/china.arff     MAE                      4227.5         200  100
+../datasets_2/china.arff     Median Absolute Error    2166.96        200  100
+../datasets_2/china.arff     RMSE                     8236.37        200  100
+../datasets_2/china.arff     R2 Score                   -0.357223    200  100
+../datasets_2/china.arff     MAE                      4348.94        300   25
+../datasets_2/china.arff     Median Absolute Error    2290.35        300   25
+../datasets_2/china.arff     RMSE                     8300.36        300   25
+../datasets_2/china.arff     R2 Score                   -0.378395    300   25
+../datasets_2/china.arff     MAE                      4280.52        300   50
+../datasets_2/china.arff     Median Absolute Error    2221.24        300   50
+../datasets_2/china.arff     RMSE                     8264.36        300   50
+../datasets_2/china.arff     R2 Score                   -0.366462    300   50
+../datasets_2/china.arff     MAE                      4227.26        300   75
+../datasets_2/china.arff     Median Absolute Error    2166.78        300   75
+../datasets_2/china.arff     RMSE                     8236.28        300   75
+../datasets_2/china.arff     R2 Score                   -0.357193    300   75
+../datasets_2/china.arff     MAE                      4117.63        300  100
+../datasets_2/china.arff     Median Absolute Error    2053.09        300  100
+../datasets_2/china.arff     RMSE                     8178.49        300  100
+../datasets_2/china.arff     R2 Score                   -0.338214    300  100
+../datasets_2/china.arff     MAE                      4334.86        400   25
+../datasets_2/china.arff     Median Absolute Error    2276.26        400   25
+../datasets_2/china.arff     RMSE                     8292.99        400   25
+../datasets_2/china.arff     R2 Score                   -0.375946    400   25
+../datasets_2/china.arff     MAE                      4236.59        400   50
+../datasets_2/china.arff     Median Absolute Error    2176.27        400   50
+../datasets_2/china.arff     RMSE                     8241.15        400   50
+../datasets_2/china.arff     R2 Score                   -0.358799    400   50
+../datasets_2/china.arff     MAE                      4143.17        400   75
+../datasets_2/china.arff     Median Absolute Error    2079.51        400   75
+../datasets_2/china.arff     RMSE                     8191.82        400   75
+../datasets_2/china.arff     R2 Score                   -0.34258     400   75
+../datasets_2/china.arff     MAE                      4036.34        400  100
+../datasets_2/china.arff     Median Absolute Error    1965.58        400  100
+../datasets_2/china.arff     RMSE                     8134.76        400  100
+../datasets_2/china.arff     R2 Score                   -0.323943    400  100
+../datasets_2/china.arff     MAE                      4314.5         500   25
+../datasets_2/china.arff     Median Absolute Error    2255.77        500   25
+../datasets_2/china.arff     RMSE                     8282.3         500   25
+../datasets_2/china.arff     R2 Score                   -0.3724      500   25
+../datasets_2/china.arff     MAE                      4158.35        500   50
+../datasets_2/china.arff     Median Absolute Error    2095.46        500   50
+../datasets_2/china.arff     RMSE                     8199.9         500   50
+../datasets_2/china.arff     R2 Score                   -0.345229    500   50
+../datasets_2/china.arff     MAE                      4084.7         500   75
+../datasets_2/china.arff     Median Absolute Error    2017.82        500   75
+../datasets_2/china.arff     RMSE                     8160.79        500   75
+../datasets_2/china.arff     R2 Score                   -0.332427    500   75
+../datasets_2/china.arff     MAE                      3964.72        500  100
+../datasets_2/china.arff     Median Absolute Error    1887.25        500  100
+../datasets_2/china.arff     RMSE                     8096.18        500  100
+../datasets_2/china.arff     R2 Score                   -0.311413    500  100
+../datasets_2/china.arff     MAE                      4258.95        600   25
+../datasets_2/china.arff     Median Absolute Error    2199.19        600   25
+../datasets_2/china.arff     RMSE                     8252.96        600   25
+../datasets_2/china.arff     R2 Score                   -0.362695    600   25
+../datasets_2/china.arff     MAE                      4121.87        600   50
+../datasets_2/china.arff     Median Absolute Error    2057.34        600   50
+../datasets_2/china.arff     RMSE                     8180.63        600   50
+../datasets_2/china.arff     R2 Score                   -0.338915    600   50
+../datasets_2/china.arff     MAE                      4015.78        600   75
+../datasets_2/china.arff     Median Absolute Error    1943.5         600   75
+../datasets_2/china.arff     RMSE                     8123.84        600   75
+../datasets_2/china.arff     R2 Score                   -0.320388    600   75
+../datasets_2/china.arff     MAE                      3857.96        600  100
+../datasets_2/china.arff     Median Absolute Error    1763.76        600  100
+../datasets_2/china.arff     RMSE                     8036.42        600  100
+../datasets_2/china.arff     R2 Score                   -0.292125    600  100
+../datasets_2/china.arff     MAE                      4243.64        700   25
+../datasets_2/china.arff     Median Absolute Error    2183.41        700   25
+../datasets_2/china.arff     RMSE                     8244.83        700   25
+../datasets_2/china.arff     R2 Score                   -0.360011    700   25
+../datasets_2/china.arff     MAE                      4106.58        700   50
+../datasets_2/china.arff     Median Absolute Error    2041.45        700   50
+../datasets_2/china.arff     RMSE                     8172.64        700   50
+../datasets_2/china.arff     R2 Score                   -0.3363      700   50
+../datasets_2/china.arff     MAE                      3942.96        700   75
+../datasets_2/china.arff     Median Absolute Error    1862.8         700   75
+../datasets_2/china.arff     RMSE                     8084.24        700   75
+../datasets_2/china.arff     R2 Score                   -0.307549    700   75
+../datasets_2/china.arff     MAE                      3795.57        700  100
+../datasets_2/china.arff     Median Absolute Error    1685.22        700  100
+../datasets_2/china.arff     RMSE                     7999.08        700  100
+../datasets_2/china.arff     R2 Score                   -0.280146    700  100
+../datasets_2/china.arff     MAE                      4241.08        800   25
+../datasets_2/china.arff     Median Absolute Error    2180.67        800   25
+../datasets_2/china.arff     RMSE                     8243.42        800   25
+../datasets_2/china.arff     R2 Score                   -0.359547    800   25
+../datasets_2/china.arff     MAE                      4027.82        800   50
+../datasets_2/china.arff     Median Absolute Error    1956.72        800   50
+../datasets_2/china.arff     RMSE                     8130.37        800   50
+../datasets_2/china.arff     R2 Score                   -0.322514    800   50
+../datasets_2/china.arff     MAE                      3865.88        800   75
+../datasets_2/china.arff     Median Absolute Error    1774.38        800   75
+../datasets_2/china.arff     RMSE                     8041.5         800   75
+../datasets_2/china.arff     R2 Score                   -0.29376     800   75
+../datasets_2/china.arff     MAE                      3784.94        800  100
+../datasets_2/china.arff     Median Absolute Error    1675.53        800  100
+../datasets_2/china.arff     RMSE                     7994.49        800  100
+../datasets_2/china.arff     R2 Score                   -0.278678    800  100
+../datasets_2/china.arff     MAE                      4209.37        900   25
+../datasets_2/china.arff     Median Absolute Error    2147.94        900   25
+../datasets_2/china.arff     RMSE                     8226.63        900   25
+../datasets_2/china.arff     R2 Score                   -0.354013    900   25
+../datasets_2/china.arff     MAE                      3999.28        900   50
+../datasets_2/china.arff     Median Absolute Error    1924.83        900   50
+../datasets_2/china.arff     RMSE                     8114.63        900   50
+../datasets_2/china.arff     R2 Score                   -0.317396    900   50
+../datasets_2/china.arff     MAE                      3816.83        900   75
+../datasets_2/china.arff     Median Absolute Error    1712.46        900   75
+../datasets_2/china.arff     RMSE                     8011.98        900   75
+../datasets_2/china.arff     R2 Score                   -0.284279    900   75
+../datasets_2/china.arff     MAE                      3664.24        900  100
+../datasets_2/china.arff     Median Absolute Error    1514.47        900  100
+../datasets_2/china.arff     RMSE                     7919.47        900  100
+../datasets_2/china.arff     R2 Score                   -0.254791    900  100
+../datasets_2/china.arff     MAE                      4178.36       1000   25
+../datasets_2/china.arff     Median Absolute Error    2116.27       1000   25
+../datasets_2/china.arff     RMSE                     8210.47       1000   25
+../datasets_2/china.arff     R2 Score                   -0.348699   1000   25
+../datasets_2/china.arff     MAE                      3964.77       1000   50
+../datasets_2/china.arff     Median Absolute Error    1887.4        1000   50
+../datasets_2/china.arff     RMSE                     8096.27       1000   50
+../datasets_2/china.arff     R2 Score                   -0.311443   1000   50
+../datasets_2/china.arff     MAE                      3729.93       1000   75
+../datasets_2/china.arff     Median Absolute Error    1601.84       1000   75
+../datasets_2/china.arff     RMSE                     7959.93       1000   75
+../datasets_2/china.arff     R2 Score                   -0.267646   1000   75
+../datasets_2/china.arff     MAE                      3593.26       1000  100
+../datasets_2/china.arff     Median Absolute Error    1412.92       1000  100
+../datasets_2/china.arff     RMSE                     7873.12       1000  100
+../datasets_2/china.arff     R2 Score                   -0.240147   1000  100

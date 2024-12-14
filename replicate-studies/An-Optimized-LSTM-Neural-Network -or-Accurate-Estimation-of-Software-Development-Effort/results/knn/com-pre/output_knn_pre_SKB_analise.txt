@@ -1,0 +1,100 @@
+Melhores resultados para o dataset: albrecht
+  Melhor para a métrica MAE: p = 2, k = 3
+    Média: 8.3658
+    Mínimo: 3.1867
+    Máximo: 30.7267
+    Desvio Padrão: 5.2099
+
+  Melhor para a métrica Median Absolute Error: p = 2, k = 7
+    Média: 3.6938
+    Mínimo: 0.6857
+    Máximo: 10.8571
+    Desvio Padrão: 1.8989
+
+  Melhor para a métrica RMSE: p = 2, k = 3
+    Média: 11.6710
+    Mínimo: 3.8874
+    Máximo: 41.3812
+    Desvio Padrão: 7.5160
+
+  Melhor para a métrica R2 Score: p = 2, k = 3
+    Média: 0.6331
+    Mínimo: 0.1369
+    Máximo: 0.8554
+    Desvio Padrão: 0.2218
+
+Melhores resultados para o dataset: kemerer
+  Melhor para a métrica MAE: p = 1, k = 3
+    Média: 129.9592
+    Mínimo: 12.5000
+    Máximo: 371.4140
+    Desvio Padrão: 110.2190
+
+  Melhor para a métrica Median Absolute Error: p = 1, k = 3
+    Média: 76.4400
+    Mínimo: 12.2667
+    Máximo: 152.4330
+    Desvio Padrão: 39.9427
+
+  Melhor para a métrica RMSE: p = 2, k = 3
+    Média: 173.6023
+    Mínimo: 13.4666
+    Máximo: 525.1480
+    Desvio Padrão: 173.4891
+
+  Melhor para a métrica R2 Score: p = 1, k = 8
+    Média: 0.4944
+    Mínimo: 0.1418
+    Máximo: 0.8490
+    Desvio Padrão: 0.2260
+
+Melhores resultados para o dataset: cocomo81
+  Melhor para a métrica MAE: p = 1, k = 8
+    Média: 492.4653
+    Mínimo: 203.7280
+    Máximo: 1507.5200
+    Desvio Padrão: 320.0631
+
+  Melhor para a métrica Median Absolute Error: p = 1, k = 9
+    Média: 117.4371
+    Mínimo: 45.6667
+    Máximo: 241.0000
+    Desvio Padrão: 54.9372
+
+  Melhor para a métrica RMSE: p = 1, k = 6
+    Média: 1141.6233
+    Mínimo: 347.6760
+    Máximo: 3267.3500
+    Desvio Padrão: 871.3698
+
+  Melhor para a métrica R2 Score: p = 1, k = 4
+    Média: 0.5593
+    Mínimo: 0.0396
+    Máximo: 0.9112
+    Desvio Padrão: 0.3110
+
+Melhores resultados para o dataset: china
+  Melhor para a métrica MAE: p = 2, k = 6
+    Média: 391.8042
+    Mínimo: 224.5270
+    Máximo: 681.4800
+    Desvio Padrão: 112.3776
+
+  Melhor para a métrica Median Absolute Error: p = 2, k = 3
+    Média: 124.4667
+    Mínimo: 84.0000
+    Máximo: 170.6670
+    Desvio Padrão: 22.0604
+
+  Melhor para a métrica RMSE: p = 2, k = 6
+    Média: 1121.3390
+    Mínimo: 419.4790
+    Máximo: 2446.0600
+    Desvio Padrão: 582.0409
+
+  Melhor para a métrica R2 Score: p = 2, k = 6
+    Média: 0.9661
+    Mínimo: 0.9217
+    Máximo: 0.9912
+    Desvio Padrão: 0.0227
+

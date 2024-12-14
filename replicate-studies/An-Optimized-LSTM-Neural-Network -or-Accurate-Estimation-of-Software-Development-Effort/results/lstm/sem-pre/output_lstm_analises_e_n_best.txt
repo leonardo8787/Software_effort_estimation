@@ -1,0 +1,82 @@
+Melhores resultados para o dataset: albrecht
+  Melhor para a métrica MAE: e = 700, n = 25
+    Média: 0.9514
+    Mínimo: 0.9514
+    Máximo: 0.9514
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: e = 700, n = 25
+    Média: 0.4496
+    Mínimo: 0.4496
+    Máximo: 0.4496
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: e = 700, n = 25
+    Média: 1.3287
+    Mínimo: 1.3287
+    Máximo: 1.3287
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica R2 Score: e = 700, n = 25
+    Média: 0.5941
+    Mínimo: 0.5941
+    Máximo: 0.5941
+    Desvio Padrão: 0.0000
+
+Melhores resultados para o dataset: kemerer
+  Melhor para a métrica MAE: e = 1000, n = 100
+    Média: 29.8259
+    Mínimo: 29.8259
+    Máximo: 29.8259
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: e = 800, n = 100
+    Média: 16.1627
+    Mínimo: 16.1627
+    Máximo: 16.1627
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: e = 1000, n = 100
+    Média: 35.7830
+    Mínimo: 35.7830
+    Máximo: 35.7830
+    Desvio Padrão: 0.0000
+
+Melhores resultados para o dataset: cocomo81
+  Melhor para a métrica MAE: e = 1000, n = 100
+    Média: 736.7490
+    Mínimo: 736.7490
+    Máximo: 736.7490
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: e = 1000, n = 50
+    Média: 42.4091
+    Mínimo: 42.4091
+    Máximo: 42.4091
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: e = 1000, n = 100
+    Média: 1780.9000
+    Mínimo: 1780.9000
+    Máximo: 1780.9000
+    Desvio Padrão: 0.0000
+
+Melhores resultados para o dataset: china
+  Melhor para a métrica MAE: e = 1000, n = 100
+    Média: 3593.2600
+    Mínimo: 3593.2600
+    Máximo: 3593.2600
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: e = 1000, n = 100
+    Média: 1412.9200
+    Mínimo: 1412.9200
+    Máximo: 1412.9200
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: e = 1000, n = 100
+    Média: 7873.1200
+    Mínimo: 7873.1200
+    Máximo: 7873.1200
+    Desvio Padrão: 0.0000
+

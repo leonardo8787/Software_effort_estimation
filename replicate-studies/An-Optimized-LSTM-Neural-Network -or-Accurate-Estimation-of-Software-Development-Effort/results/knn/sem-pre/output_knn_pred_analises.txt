@@ -1,0 +1,152 @@
+Estatísticas para o dataset: albrecht
+Para p=1, k=3:
+   Média: 24.7800
+   Mínimo: 6.3333
+   Máximo: 61.8000
+   Desvio Padrão: 20.2928
+Para p=2, k=3:
+   Média: 24.7800
+   Mínimo: 6.3333
+   Máximo: 61.8000
+   Desvio Padrão: 20.2928
+Para p=1, k=4:
+   Média: 21.9500
+   Mínimo: 5.7750
+   Máximo: 49.3500
+   Desvio Padrão: 15.6453
+Para p=2, k=4:
+   Média: 21.9850
+   Mínimo: 5.7750
+   Máximo: 49.3500
+   Desvio Padrão: 15.6194
+Para p=1, k=5:
+   Média: 20.0000
+   Mínimo: 4.7200
+   Máximo: 43.7000
+   Desvio Padrão: 13.6003
+Para p=2, k=5:
+   Média: 20.3800
+   Mínimo: 6.6200
+   Máximo: 43.7000
+   Desvio Padrão: 13.1883
+Para p=1, k=6:
+   Média: 18.9833
+   Mínimo: 5.6000
+   Máximo: 38.3833
+   Desvio Padrão: 11.2669
+Para p=2, k=6:
+   Média: 18.7433
+   Mínimo: 5.6000
+   Máximo: 38.3833
+   Desvio Padrão: 11.3598
+Para p=1, k=7:
+   Média: 17.3971
+   Mínimo: 6.0714
+   Máximo: 35.1571
+   Desvio Padrão: 10.0264
+Para p=2, k=7:
+   Média: 18.2114
+   Mínimo: 6.0714
+   Máximo: 35.1571
+   Desvio Padrão: 9.8130
+Para p=1, k=8:
+   Média: 16.7675
+   Mínimo: 6.2500
+   Máximo: 31.2125
+   Desvio Padrão: 8.3437
+Para p=2, k=8:
+   Média: 16.9475
+   Mínimo: 6.2500
+   Máximo: 32.1125
+   Desvio Padrão: 8.6572
+Para p=1, k=9:
+   Média: 16.6200
+   Mínimo: 8.7556
+   Máximo: 28.9444
+   Desvio Padrão: 6.9138
+Para p=2, k=9:
+   Média: 17.0933
+   Mínimo: 8.7556
+   Máximo: 28.9444
+   Desvio Padrão: 6.6946
+
+
+Estatísticas para o dataset: kemerer
+Para p=1, k=3:
+   Média: 94.5556
+   Mínimo: 63.2333
+   Máximo: 124.7333
+   Desvio Padrão: 25.1203
+Para p=2, k=3:
+   Média: 112.3333
+   Mínimo: 63.2333
+   Máximo: 149.0333
+   Desvio Padrão: 36.1084
+Para p=1, k=4:
+   Média: 110.4000
+   Mínimo: 86.6750
+   Máximo: 133.5000
+   Desvio Padrão: 19.1213
+Para p=2, k=4:
+   Média: 110.4000
+   Mínimo: 86.6750
+   Máximo: 133.5000
+   Desvio Padrão: 19.1213
+Para p=1, k=5:
+   Média: 122.0333
+   Mínimo: 86.7200
+   Máximo: 174.0600
+   Desvio Padrão: 37.5639
+Para p=2, k=5:
+   Média: 110.0800
+   Mínimo: 86.7200
+   Máximo: 138.2000
+   Desvio Padrão: 21.2844
+Para p=1, k=6:
+   Média: 118.9667
+   Mínimo: 83.9167
+   Máximo: 171.2167
+   Desvio Padrão: 37.6581
+Para p=2, k=6:
+   Média: 122.3222
+   Mínimo: 93.9833
+   Máximo: 171.2167
+   Desvio Padrão: 34.7193
+Para p=1, k=7:
+   Média: 125.4571
+   Mínimo: 90.5429
+   Máximo: 163.3286
+   Desvio Padrão: 29.7881
+Para p=2, k=7:
+   Média: 125.4571
+   Mínimo: 90.5429
+   Máximo: 163.3286
+   Desvio Padrão: 29.7881
+Para p=1, k=8:
+   Média: 131.8083
+   Mínimo: 110.0875
+   Máximo: 175.2500
+   Desvio Padrão: 30.7179
+Para p=2, k=8:
+   Média: 131.8083
+   Mínimo: 110.0875
+   Máximo: 175.2500
+   Desvio Padrão: 30.7179
+Para p=1, k=9:
+   Média: 145.1296
+   Mínimo: 135.2222
+   Máximo: 164.9444
+   Desvio Padrão: 14.0112
+Para p=2, k=9:
+   Média: 145.1296
+   Mínimo: 135.2222
+   Máximo: 164.9444
+   Desvio Padrão: 14.0112
+
+
+Estatísticas para o dataset: cocomo81
+
+
+Estatísticas para o dataset: china
+
+

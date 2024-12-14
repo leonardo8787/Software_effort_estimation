@@ -1,0 +1,100 @@
+Melhores resultados para o dataset: albrecht
+  Melhor para a métrica MAE: p = 1, k = 3
+    Média: 9.3800
+    Mínimo: 3.3267
+    Máximo: 28.6533
+    Desvio Padrão: 6.0183
+
+  Melhor para a métrica Median Absolute Error: p = 2, k = 6
+    Média: 4.5339
+    Mínimo: 0.9000
+    Máximo: 11.7833
+    Desvio Padrão: 2.3518
+
+  Melhor para a métrica RMSE: p = 1, k = 3
+    Média: 13.7424
+    Mínimo: 3.8680
+    Máximo: 42.3384
+    Desvio Padrão: 9.5239
+
+  Melhor para a métrica R2 Score: p = 1, k = 3
+    Média: 0.5856
+    Mínimo: 0.1220
+    Máximo: 0.8352
+    Desvio Padrão: 0.2423
+
+Melhores resultados para o dataset: kemerer
+  Melhor para a métrica MAE: p = 1, k = 3
+    Média: 101.9352
+    Mínimo: 11.5222
+    Máximo: 349.2030
+    Desvio Padrão: 96.5172
+
+  Melhor para a métrica Median Absolute Error: p = 1, k = 4
+    Média: 64.6683
+    Mínimo: 8.5750
+    Máximo: 166.2250
+    Desvio Padrão: 43.1390
+
+  Melhor para a métrica RMSE: p = 1, k = 3
+    Média: 135.4183
+    Mínimo: 14.4613
+    Máximo: 508.9040
+    Desvio Padrão: 146.8541
+
+  Melhor para a métrica R2 Score: p = 2, k = 3
+    Média: 0.4667
+    Mínimo: 0.0111
+    Máximo: 0.9677
+    Desvio Padrão: 0.3122
+
+Melhores resultados para o dataset: cocomo81
+  Melhor para a métrica MAE: p = 1, k = 9
+    Média: 567.9788
+    Mínimo: 104.9100
+    Máximo: 1950.3600
+    Desvio Padrão: 415.0096
+
+  Melhor para a métrica Median Absolute Error: p = 1, k = 9
+    Média: 116.4618
+    Mínimo: 23.2556
+    Máximo: 275.4440
+    Desvio Padrão: 60.4735
+
+  Melhor para a métrica RMSE: p = 1, k = 4
+    Média: 1257.6537
+    Mínimo: 176.1280
+    Máximo: 3560.7000
+    Desvio Padrão: 939.4727
+
+  Melhor para a métrica R2 Score: p = 1, k = 4
+    Média: 0.5081
+    Mínimo: 0.1634
+    Máximo: 0.9224
+    Desvio Padrão: 0.2325
+
+Melhores resultados para o dataset: china
+  Melhor para a métrica MAE: p = 1, k = 5
+    Média: 413.9499
+    Mínimo: 197.0380
+    Máximo: 794.4000
+    Desvio Padrão: 132.3193
+
+  Melhor para a métrica Median Absolute Error: p = 1, k = 3
+    Média: 119.0556
+    Mínimo: 85.6667
+    Máximo: 161.5000
+    Desvio Padrão: 20.1376
+
+  Melhor para a métrica RMSE: p = 1, k = 3
+    Média: 1193.8162
+    Mínimo: 310.4590
+    Máximo: 2780.8700
+    Desvio Padrão: 607.8491
+
+  Melhor para a métrica R2 Score: p = 2, k = 4
+    Média: 0.9613
+    Mínimo: 0.8864
+    Máximo: 0.9900
+    Desvio Padrão: 0.0283
+

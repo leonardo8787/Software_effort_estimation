@@ -1,0 +1,100 @@
+Melhores resultados para o dataset: albrecht
+  Melhor para a métrica MAE: p = 1, k = 3
+    Média: 11.4933
+    Mínimo: 11.4933
+    Máximo: 11.4933
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: p = 2, k = 3
+    Média: 4.3333
+    Mínimo: 4.3333
+    Máximo: 4.3333
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: p = 1, k = 3
+    Média: 19.5097
+    Mínimo: 19.5097
+    Máximo: 19.5097
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica R2 Score: p = 1, k = 3
+    Média: 0.7003
+    Mínimo: 0.7003
+    Máximo: 0.7003
+    Desvio Padrão: 0.0000
+
+Melhores resultados para o dataset: kemerer
+  Melhor para a métrica MAE: p = 2, k = 7
+    Média: 43.8910
+    Mínimo: 43.8910
+    Máximo: 43.8910
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: p = 2, k = 7
+    Média: 39.6571
+    Mínimo: 39.6571
+    Máximo: 39.6571
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: p = 2, k = 7
+    Média: 50.5263
+    Mínimo: 50.5263
+    Máximo: 50.5263
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica R2 Score: p = 2, k = 7
+    Média: 0.6919
+    Mínimo: 0.6919
+    Máximo: 0.6919
+    Desvio Padrão: 0.0000
+
+Melhores resultados para o dataset: cocomo81
+  Melhor para a métrica MAE: p = 2, k = 6
+    Média: 184.1790
+    Mínimo: 184.1790
+    Máximo: 184.1790
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: p = 2, k = 8
+    Média: 89.8750
+    Mínimo: 89.8750
+    Máximo: 89.8750
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: p = 2, k = 6
+    Média: 272.2700
+    Mínimo: 272.2700
+    Máximo: 272.2700
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica R2 Score: p = 2, k = 6
+    Média: 0.7601
+    Mínimo: 0.7601
+    Máximo: 0.7601
+    Desvio Padrão: 0.0000
+
+Melhores resultados para o dataset: china
+  Melhor para a métrica MAE: p = 1, k = 5
+    Média: 1051.8800
+    Mínimo: 1051.8800
+    Máximo: 1051.8800
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica Median Absolute Error: p = 1, k = 4
+    Média: 375.0000
+    Mínimo: 375.0000
+    Máximo: 375.0000
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica RMSE: p = 1, k = 5
+    Média: 2254.4400
+    Mínimo: 2254.4400
+    Máximo: 2254.4400
+    Desvio Padrão: 0.0000
+
+  Melhor para a métrica R2 Score: p = 1, k = 5
+    Média: 0.8309
+    Mínimo: 0.8309
+    Máximo: 0.8309
+    Desvio Padrão: 0.0000
+

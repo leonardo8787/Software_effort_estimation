@@ -1,0 +1,83 @@
+Estatísticas para o dataset: albrecht
+Métrica: MAE
+   Média: 17.2957
+   Mínimo: 12.2000
+   Máximo: 20.9644
+   Desvio Padrão: 2.6375
+Métrica: Median Absolute Error
+   Média: 5.5478
+   Mínimo: 3.5000
+   Máximo: 7.8000
+   Desvio Padrão: 1.3309
+Métrica: RMSE
+   Média: 28.3328
+   Mínimo: 18.9022
+   Máximo: 34.1580
+   Desvio Padrão: 4.7042
+Métrica: R2 Score
+   Média: 0.3505
+   Mínimo: 0.0813
+   Máximo: 0.7187
+   Desvio Padrão: 0.1977
+/n
+Estatísticas para o dataset: kemerer
+Métrica: MAE
+   Média: 91.6284
+   Mínimo: 83.4714
+   Máximo: 101.1390
+   Desvio Padrão: 5.4234
+Métrica: Median Absolute Error
+   Média: 114.2103
+   Mínimo: 95.4778
+   Máximo: 128.9330
+   Desvio Padrão: 8.8968
+Métrica: RMSE
+   Média: 104.2770
+   Mínimo: 95.4737
+   Máximo: 116.3130
+   Desvio Padrão: 7.4145
+/n
+Estatísticas para o dataset: cocomo81
+Métrica: MAE
+   Média: 271.7486
+   Mínimo: 253.4620
+   Máximo: 289.6030
+   Desvio Padrão: 12.1300
+Métrica: Median Absolute Error
+   Média: 106.5556
+   Mínimo: 34.0000
+   Máximo: 153.2500
+   Desvio Padrão: 42.2261
+Métrica: RMSE
+   Média: 515.8963
+   Mínimo: 500.2970
+   Máximo: 531.9700
+   Desvio Padrão: 8.9429
+Métrica: R2 Score
+   Média: 0.1385
+   Mínimo: 0.0842
+   Máximo: 0.1900
+   Desvio Padrão: 0.0299
+/n
+Estatísticas para o dataset: china
+Métrica: MAE
+   Média: 399.0776
+   Mínimo: 379.9150
+   Máximo: 428.4320
+   Desvio Padrão: 13.0492
+Métrica: Median Absolute Error
+   Média: 118.6851
+   Mínimo: 97.5000
+   Máximo: 132.7000
+   Desvio Padrão: 9.6574
+Métrica: RMSE
+   Média: 1545.0571
+   Mínimo: 1421.7600
+   Máximo: 1769.1500
+   Desvio Padrão: 113.2634
+Métrica: R2 Score
+   Média: 0.9202
+   Mínimo: 0.8959
+   Máximo: 0.9327
+   Desvio Padrão: 0.0119
+/n
