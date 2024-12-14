@@ -1,3 +1,0 @@
-kbest com 5 variáveis
-30/70
-GAN
