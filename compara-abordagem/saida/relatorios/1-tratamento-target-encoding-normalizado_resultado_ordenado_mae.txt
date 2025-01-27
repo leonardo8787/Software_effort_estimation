@@ -1,0 +1,24 @@
+Relatório de Métrica MAE para a Abordagem: 1-TRATAMENTO-TARGET-ENCODING-NORMALIZADO (Ordenado em Ordem Ascendente)
+==================================================
+Total de arquivos processados: 20
+
+1. MAE: 0.0069 - Arquivo: 4-escolha\selectKbest\75\1-tratamento-target-encoding-normalizado\tratamento_china_resultados_processamento_simples.xlsx
+2. MAE: 0.0070 - Arquivo: 1-tratamento-target-encoding-normalizado\tratamento_china_resultados_kfold.xlsx
+3. MAE: 0.0073 - Arquivo: 4-escolha\selectKbest\25\1-tratamento-target-encoding-normalizado\tratamento_china_resultados_processamento_simples.xlsx
+4. MAE: 0.0073 - Arquivo: 4-escolha\selectKbest\50\1-tratamento-target-encoding-normalizado\tratamento_china_resultados_processamento_simples.xlsx
+5. MAE: 0.0243 - Arquivo: 4-escolha\pca\1-tratamento-target-encoding-normalizado\tratamento_china_resultados_processamento_simples.xlsx
+6. MAE: 0.0527 - Arquivo: 4-escolha\selectKbest\25\1-tratamento-target-encoding-normalizado\tratamento_maxwell_resultados_processamento_simples.xlsx
+7. MAE: 0.0551 - Arquivo: 4-escolha\selectKbest\50\1-tratamento-target-encoding-normalizado\tratamento_maxwell_resultados_processamento_simples.xlsx
+8. MAE: 0.0605 - Arquivo: 4-escolha\selectKbest\75\1-tratamento-target-encoding-normalizado\tratamento_maxwell_resultados_processamento_simples.xlsx
+9. MAE: 0.0622 - Arquivo: 1-tratamento-target-encoding-normalizado\tratamento_maxwell_resultados_kfold.xlsx
+10. MAE: 0.0631 - Arquivo: 4-escolha\selectKbest\50\1-tratamento-target-encoding-normalizado\tratamento_cocomo81_resultados_processamento_simples.xlsx
+11. MAE: 0.0641 - Arquivo: 4-escolha\selectKbest\25\1-tratamento-target-encoding-normalizado\tratamento_cocomo81_resultados_processamento_simples.xlsx
+12. MAE: 0.0673 - Arquivo: 4-escolha\pca\1-tratamento-target-encoding-normalizado\tratamento_maxwell_resultados_processamento_simples.xlsx
+13. MAE: 0.0684 - Arquivo: 4-escolha\selectKbest\75\1-tratamento-target-encoding-normalizado\tratamento_cocomo81_resultados_processamento_simples.xlsx
+14. MAE: 0.0719 - Arquivo: 4-escolha\pca\1-tratamento-target-encoding-normalizado\tratamento_cocomo81_resultados_processamento_simples.xlsx
+15. MAE: 0.0727 - Arquivo: 1-tratamento-target-encoding-normalizado\tratamento_cocomo81_resultados_kfold.xlsx
+16. MAE: 0.0966 - Arquivo: 4-escolha\selectKbest\50\1-tratamento-target-encoding-normalizado\tratamento_desharnais_resultados_processamento_simples.xlsx
+17. MAE: 0.0987 - Arquivo: 1-tratamento-target-encoding-normalizado\tratamento_desharnais_resultados_kfold.xlsx
+18. MAE: 0.0993 - Arquivo: 4-escolha\selectKbest\75\1-tratamento-target-encoding-normalizado\tratamento_desharnais_resultados_processamento_simples.xlsx
+19. MAE: 0.1009 - Arquivo: 4-escolha\selectKbest\25\1-tratamento-target-encoding-normalizado\tratamento_desharnais_resultados_processamento_simples.xlsx
+20. MAE: 0.1023 - Arquivo: 4-escolha\pca\1-tratamento-target-encoding-normalizado\tratamento_desharnais_resultados_processamento_simples.xlsx

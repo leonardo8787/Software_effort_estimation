@@ -1,0 +1,144 @@
+
+==================================================
+Dataset: CHINA
+==================================================
+
+MSE (Ascendente):
+1. MIMIC-25\tratamento_china_resultados_kfold.xlsx
+2. MIMIC-75\tratamento_china_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_china_resultados_kfold.xlsx
+4. GAN-75\tratamento_china_resultados_kfold.xlsx
+5. GAN-25\tratamento_china_resultados_kfold.xlsx
+6. GAN-50\tratamento_china_resultados_kfold.xlsx
+
+RMSE (Ascendente):
+1. MIMIC-25\tratamento_china_resultados_kfold.xlsx
+2. MIMIC-75\tratamento_china_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_china_resultados_kfold.xlsx
+4. GAN-75\tratamento_china_resultados_kfold.xlsx
+5. GAN-25\tratamento_china_resultados_kfold.xlsx
+6. GAN-50\tratamento_china_resultados_kfold.xlsx
+
+MAE (Ascendente):
+1. MIMIC-25\tratamento_china_resultados_kfold.xlsx
+2. MIMIC-75\tratamento_china_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_china_resultados_kfold.xlsx
+4. GAN-75\tratamento_china_resultados_kfold.xlsx
+5. GAN-50\tratamento_china_resultados_kfold.xlsx
+6. GAN-25\tratamento_china_resultados_kfold.xlsx
+
+R² (Descendente):
+1. MIMIC-25\tratamento_china_resultados_kfold.xlsx
+2. MIMIC-75\tratamento_china_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_china_resultados_kfold.xlsx
+4. GAN-75\tratamento_china_resultados_kfold.xlsx
+5. GAN-25\tratamento_china_resultados_kfold.xlsx
+6. GAN-50\tratamento_china_resultados_kfold.xlsx
+
+==================================================
+Dataset: COCOMO81
+==================================================
+
+MSE (Ascendente):
+1. MIMIC-50\tratamento_cocomo81_resultados_kfold.xlsx
+2. MIMIC-75\tratamento_cocomo81_resultados_kfold.xlsx
+3. MIMIC-25\tratamento_cocomo81_resultados_kfold.xlsx
+4. GAN-75\tratamento_cocomo81_resultados_kfold.xlsx
+5. GAN-50\tratamento_cocomo81_resultados_kfold.xlsx
+6. GAN-25\tratamento_cocomo81_resultados_kfold.xlsx
+
+RMSE (Ascendente):
+1. MIMIC-75\tratamento_cocomo81_resultados_kfold.xlsx
+2. MIMIC-25\tratamento_cocomo81_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_cocomo81_resultados_kfold.xlsx
+4. GAN-75\tratamento_cocomo81_resultados_kfold.xlsx
+5. GAN-50\tratamento_cocomo81_resultados_kfold.xlsx
+6. GAN-25\tratamento_cocomo81_resultados_kfold.xlsx
+
+MAE (Ascendente):
+1. MIMIC-75\tratamento_cocomo81_resultados_kfold.xlsx
+2. MIMIC-25\tratamento_cocomo81_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_cocomo81_resultados_kfold.xlsx
+4. GAN-25\tratamento_cocomo81_resultados_kfold.xlsx
+5. GAN-75\tratamento_cocomo81_resultados_kfold.xlsx
+6. GAN-50\tratamento_cocomo81_resultados_kfold.xlsx
+
+R² (Descendente):
+1. MIMIC-25\tratamento_cocomo81_resultados_kfold.xlsx
+2. MIMIC-50\tratamento_cocomo81_resultados_kfold.xlsx
+3. MIMIC-75\tratamento_cocomo81_resultados_kfold.xlsx
+4. GAN-75\tratamento_cocomo81_resultados_kfold.xlsx
+5. GAN-50\tratamento_cocomo81_resultados_kfold.xlsx
+6. GAN-25\tratamento_cocomo81_resultados_kfold.xlsx
+
+==================================================
+Dataset: DESHARNAIS
+==================================================
+
+MSE (Ascendente):
+1. GAN-75\tratamento_desharnais_resultados_kfold.xlsx
+2. GAN-25\tratamento_desharnais_resultados_kfold.xlsx
+3. MIMIC-75\tratamento_desharnais_resultados_kfold.xlsx
+4. MIMIC-50\tratamento_desharnais_resultados_kfold.xlsx
+5. GAN-50\tratamento_desharnais_resultados_kfold.xlsx
+6. MIMIC-25\tratamento_desharnais_resultados_kfold.xlsx
+
+RMSE (Ascendente):
+1. GAN-75\tratamento_desharnais_resultados_kfold.xlsx
+2. GAN-25\tratamento_desharnais_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_desharnais_resultados_kfold.xlsx
+4. MIMIC-75\tratamento_desharnais_resultados_kfold.xlsx
+5. MIMIC-25\tratamento_desharnais_resultados_kfold.xlsx
+6. GAN-50\tratamento_desharnais_resultados_kfold.xlsx
+
+MAE (Ascendente):
+1. GAN-75\tratamento_desharnais_resultados_kfold.xlsx
+2. GAN-25\tratamento_desharnais_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_desharnais_resultados_kfold.xlsx
+4. MIMIC-75\tratamento_desharnais_resultados_kfold.xlsx
+5. GAN-50\tratamento_desharnais_resultados_kfold.xlsx
+6. MIMIC-25\tratamento_desharnais_resultados_kfold.xlsx
+
+R² (Descendente):
+1. GAN-75\tratamento_desharnais_resultados_kfold.xlsx
+2. GAN-25\tratamento_desharnais_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_desharnais_resultados_kfold.xlsx
+4. MIMIC-75\tratamento_desharnais_resultados_kfold.xlsx
+5. GAN-50\tratamento_desharnais_resultados_kfold.xlsx
+6. MIMIC-25\tratamento_desharnais_resultados_kfold.xlsx
+
+==================================================
+Dataset: MAXWELL
+==================================================
+
+MSE (Ascendente):
+1. GAN-50\tratamento_maxwell_resultados_kfold.xlsx
+2. GAN-75\tratamento_maxwell_resultados_kfold.xlsx
+3. MIMIC-75\tratamento_maxwell_resultados_kfold.xlsx
+4. MIMIC-50\tratamento_maxwell_resultados_kfold.xlsx
+5. MIMIC-25\tratamento_maxwell_resultados_kfold.xlsx
+6. GAN-25\tratamento_maxwell_resultados_kfold.xlsx
+
+RMSE (Ascendente):
+1. GAN-50\tratamento_maxwell_resultados_kfold.xlsx
+2. GAN-75\tratamento_maxwell_resultados_kfold.xlsx
+3. MIMIC-75\tratamento_maxwell_resultados_kfold.xlsx
+4. MIMIC-50\tratamento_maxwell_resultados_kfold.xlsx
+5. MIMIC-25\tratamento_maxwell_resultados_kfold.xlsx
+6. GAN-25\tratamento_maxwell_resultados_kfold.xlsx
+
+MAE (Ascendente):
+1. GAN-50\tratamento_maxwell_resultados_kfold.xlsx
+2. GAN-75\tratamento_maxwell_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_maxwell_resultados_kfold.xlsx
+4. MIMIC-25\tratamento_maxwell_resultados_kfold.xlsx
+5. MIMIC-75\tratamento_maxwell_resultados_kfold.xlsx
+6. GAN-25\tratamento_maxwell_resultados_kfold.xlsx
+
+R² (Descendente):
+1. GAN-50\tratamento_maxwell_resultados_kfold.xlsx
+2. GAN-75\tratamento_maxwell_resultados_kfold.xlsx
+3. MIMIC-50\tratamento_maxwell_resultados_kfold.xlsx
+4. MIMIC-25\tratamento_maxwell_resultados_kfold.xlsx
+5. GAN-25\tratamento_maxwell_resultados_kfold.xlsx
+6. MIMIC-75\tratamento_maxwell_resultados_kfold.xlsx

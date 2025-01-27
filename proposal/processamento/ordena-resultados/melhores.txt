@@ -1,0 +1,8 @@
+1-tratamento 
+2- MIMIC-25 e 75. GAN-75 e 50
+3- MIMIC-25\tratamento_china.txt_resultados_alisson.xlsx,   GAN-50\tratamento_cocomo81.txt_resultados_alisson.xlsx,    GAN-75\tratamento_desharnais.txt_resultados_alisson.xlsx
+4- 3-simulacao\GAN-75\tratamento_china.txt_resultados_alisson.xlsx,   3-simulacao\MIMIC-25\tratamento_cocomo81.txt_resultados_alisson.xlsx
+5- 3-simulacao\MIMIC-50\tratamento_desharnais.txt_resultados_alisson.xlsx
+6- 3-simulacao\MIMIC-50\tratamento_china.txt_resultados_alisson.xlsx,    3-simulacao\MIMIC-75\tratamento_china.txt_resultados_alisson.xlsx,   3-simulacao\MIMIC-25\tratamento_maxwell.txt_resultados_alisson.xlsx
+7- 3-simulacao\MIMIC-25\tratamento_china.txt_resultados_alisson.xlsx,   3-simulacao\MIMIC-50\tratamento_cocomo81.txt_resultados_alisson.xlsx,   3-simulacao\MIMIC-25\tratamento_maxwell.txt_resultados_alisson.xlsx
+8- 3-simulacao\MIMIC-25\tratamento_china.txt_resultados_alisson.xlsx,   3-simulacao\GAN-50\tratamento_cocomo81.txt_resultados_alisson.xlsx,   3-simulacao\MIMIC-75\tratamento_desharnais.txt_resultados_alisson.xlsx

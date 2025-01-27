@@ -1,0 +1,208 @@
+
+==================================================
+Dataset: CHINA
+==================================================
+
+MSE (Ascendente):
+1. 3-simulacao\MIMIC-75\tratamento_china_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-50\tratamento_china_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-25\tratamento_china_resultados_processamento_simples.xlsx
+4. 3-simulacao\1-tratamento\tratamento_china_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-25\tratamento_china_resultados_processamento_simples.xlsx
+6. 3-simulacao\GAN-75\tratamento_china_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-50\tratamento_china_resultados_processamento_simples.xlsx
+8. 3-simulacao\GAN-75\tratamento_china.txt_resultados_alisson.xlsx
+9. 3-simulacao\1-tratamento\tratamento_china.txt_resultados_alisson.xlsx
+10. 2-geracao\GAN-50\tratamento_china_resultados_processamento_simples.xlsx
+
+RMSE (Ascendente):
+1. 3-simulacao\MIMIC-75\tratamento_china_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-50\tratamento_china_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-25\tratamento_china_resultados_processamento_simples.xlsx
+4. 3-simulacao\1-tratamento\tratamento_china_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-25\tratamento_china_resultados_processamento_simples.xlsx
+6. 3-simulacao\GAN-75\tratamento_china_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-50\tratamento_china_resultados_processamento_simples.xlsx
+8. 3-simulacao\GAN-75\tratamento_china.txt_resultados_alisson.xlsx
+9. 3-simulacao\1-tratamento\tratamento_china.txt_resultados_alisson.xlsx
+10. 3-simulacao\GAN-25\tratamento_china.txt_resultados_alisson.xlsx
+
+MAE (Ascendente):
+1. 3-simulacao\MIMIC-75\tratamento_china_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-50\tratamento_china_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-25\tratamento_china_resultados_processamento_simples.xlsx
+4. 3-simulacao\1-tratamento\tratamento_china_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-25\tratamento_china_resultados_processamento_simples.xlsx
+6. 3-simulacao\GAN-75\tratamento_china_resultados_processamento_simples.xlsx
+7. 3-simulacao\MIMIC-75\tratamento_china.txt_resultados_alisson.xlsx
+8. 3-simulacao\GAN-50\tratamento_china.txt_resultados_alisson.xlsx
+9. 3-simulacao\GAN-25\tratamento_china.txt_resultados_alisson.xlsx
+10. 3-simulacao\MIMIC-50\tratamento_china.txt_resultados_alisson.xlsx
+
+R� (Descendente):
+1. 3-simulacao\MIMIC-75\tratamento_china_resultados_processamento_simples.xlsx
+2. 3-simulacao\GAN-25\tratamento_china_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-75\tratamento_china_resultados_processamento_simples.xlsx
+4. 3-simulacao\MIMIC-50\tratamento_china_resultados_processamento_simples.xlsx
+5. 3-simulacao\1-tratamento\tratamento_china_resultados_processamento_simples.xlsx
+6. 3-simulacao\MIMIC-25\tratamento_china_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-50\tratamento_china_resultados_processamento_simples.xlsx
+8. 3-simulacao\GAN-75\tratamento_china.txt_resultados_alisson.xlsx
+9. 3-simulacao\GAN-50\tratamento_china.txt_resultados_alisson.xlsx
+10. 3-simulacao\1-tratamento\tratamento_china.txt_resultados_alisson.xlsx
+
+==================================================
+Dataset: COCOMO81
+==================================================
+
+MSE (Ascendente):
+1. 3-simulacao\GAN-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+2. 3-simulacao\GAN-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+3. 3-simulacao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+4. 3-simulacao\MIMIC-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+6. 3-simulacao\1-tratamento\tratamento_cocomo81_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+8. 3-simulacao\MIMIC-25\tratamento_cocomo81.txt_resultados_alisson.xlsx
+9. 2-geracao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+10. 2-geracao\MIMIC-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+
+RMSE (Ascendente):
+1. 3-simulacao\GAN-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+2. 3-simulacao\GAN-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+3. 3-simulacao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+4. 3-simulacao\MIMIC-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+6. 3-simulacao\1-tratamento\tratamento_cocomo81_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+8. 2-geracao\MIMIC-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+9. 3-simulacao\MIMIC-25\tratamento_cocomo81.txt_resultados_alisson.xlsx
+10. 2-geracao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+
+MAE (Ascendente):
+1. 3-simulacao\GAN-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+2. 3-simulacao\GAN-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+3. 3-simulacao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+4. 2-geracao\MIMIC-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+6. 2-geracao\MIMIC-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+7. 2-geracao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+8. 3-simulacao\MIMIC-25\tratamento_cocomo81.txt_resultados_alisson.xlsx
+9. 3-simulacao\MIMIC-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+10. 3-simulacao\1-tratamento\tratamento_cocomo81_resultados_processamento_simples.xlsx
+
+R� (Descendente):
+1. 3-simulacao\GAN-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+4. 3-simulacao\MIMIC-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+6. 3-simulacao\1-tratamento\tratamento_cocomo81_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+8. 2-geracao\MIMIC-25\tratamento_cocomo81_resultados_processamento_simples.xlsx
+9. 2-geracao\MIMIC-50\tratamento_cocomo81_resultados_processamento_simples.xlsx
+10. 2-geracao\MIMIC-75\tratamento_cocomo81_resultados_processamento_simples.xlsx
+
+==================================================
+Dataset: DESHARNAIS
+==================================================
+
+MSE (Ascendente):
+1. 3-simulacao\1-tratamento\tratamento_desharnais_resultados_processamento_simples.xlsx
+2. 3-simulacao\GAN-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+4. 3-simulacao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+6. 3-simulacao\MIMIC-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+7. 3-simulacao\MIMIC-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+8. 2-geracao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+9. 2-geracao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+10. 3-simulacao\MIMIC-75\tratamento_desharnais.txt_resultados_alisson.xlsx
+
+RMSE (Ascendente):
+1. 3-simulacao\1-tratamento\tratamento_desharnais_resultados_processamento_simples.xlsx
+2. 3-simulacao\GAN-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+4. 3-simulacao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+6. 3-simulacao\MIMIC-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+7. 3-simulacao\MIMIC-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+8. 2-geracao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+9. 2-geracao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+10. 3-simulacao\GAN-75\tratamento_desharnais.txt_resultados_alisson.xlsx
+
+MAE (Ascendente):
+1. 3-simulacao\1-tratamento\tratamento_desharnais_resultados_processamento_simples.xlsx
+2. 3-simulacao\GAN-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+4. 3-simulacao\MIMIC-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+5. 3-simulacao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+6. 3-simulacao\MIMIC-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+7. 3-simulacao\MIMIC-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+8. 2-geracao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+9. 2-geracao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+10. 3-simulacao\MIMIC-75\tratamento_desharnais.txt_resultados_alisson.xlsx
+
+R� (Descendente):
+1. 3-simulacao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+2. 3-simulacao\1-tratamento\tratamento_desharnais_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+4. 3-simulacao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-50\tratamento_desharnais_resultados_processamento_simples.xlsx
+6. 3-simulacao\MIMIC-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+7. 3-simulacao\MIMIC-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+8. 2-geracao\GAN-75\tratamento_desharnais_resultados_processamento_simples.xlsx
+9. 2-geracao\GAN-25\tratamento_desharnais_resultados_processamento_simples.xlsx
+10. 3-simulacao\GAN-75\tratamento_desharnais.txt_resultados_alisson.xlsx
+
+==================================================
+Dataset: MAXWELL
+==================================================
+
+MSE (Ascendente):
+1. 3-simulacao\MIMIC-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+3. 3-simulacao\1-tratamento\tratamento_maxwell_resultados_processamento_simples.xlsx
+4. 3-simulacao\GAN-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+5. 3-simulacao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+6. 3-simulacao\MIMIC-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+8. 2-geracao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+9. 2-geracao\MIMIC-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+10. 2-geracao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+
+RMSE (Ascendente):
+1. 3-simulacao\MIMIC-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+3. 3-simulacao\1-tratamento\tratamento_maxwell_resultados_processamento_simples.xlsx
+4. 3-simulacao\GAN-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+5. 3-simulacao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+6. 3-simulacao\MIMIC-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+8. 2-geracao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+9. 2-geracao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+10. 2-geracao\MIMIC-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+
+MAE (Ascendente):
+1. 3-simulacao\MIMIC-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+3. 3-simulacao\GAN-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+4. 3-simulacao\1-tratamento\tratamento_maxwell_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+6. 3-simulacao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+8. 2-geracao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+9. 2-geracao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+10. 2-geracao\GAN-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+
+R� (Descendente):
+1. 3-simulacao\GAN-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+2. 3-simulacao\MIMIC-75\tratamento_maxwell_resultados_processamento_simples.xlsx
+3. 3-simulacao\MIMIC-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+4. 3-simulacao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+5. 3-simulacao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+6. 3-simulacao\1-tratamento\tratamento_maxwell_resultados_processamento_simples.xlsx
+7. 3-simulacao\GAN-25\tratamento_maxwell_resultados_processamento_simples.xlsx
+8. 2-geracao\MIMIC-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+9. 2-geracao\GAN-50\tratamento_maxwell_resultados_processamento_simples.xlsx
+10. 2-geracao\GAN-25\tratamento_maxwell_resultados_processamento_simples.xlsx

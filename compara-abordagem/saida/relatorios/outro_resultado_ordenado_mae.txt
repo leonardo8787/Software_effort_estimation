@@ -1,0 +1,8 @@
+Relatório de Métrica MAE para o Dataset: OUTRO (Ordenado em Ordem Ascendente)
+==================================================
+Total de arquivos processados: 4
+
+1. MAE: 0.0561 - Arquivo: 4-escolha\selectKbest\25\3-simulacao\MIMIC-50\resultado_consolidado.xlsx
+2. MAE: 0.0597 - Arquivo: 4-escolha\pca\2-geracao-variaveis\MIMIC-50\resultado_consolidado.xlsx
+3. MAE: 0.0826 - Arquivo: 4-escolha\correlacao\3-simulacao\MIMIC-75\resultado_consolidado.xlsx
+4. MAE: 0.0903 - Arquivo: 4-escolha\pca\3-simulacao\MIMIC-50\resultado_consolidado.xlsx
